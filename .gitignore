@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Environments
+.env
+venv/
+
+# Data — never commit datasets to GitHub (too large, often licensed)
+data/
+*.mp4
+*.avi
+*.mov
+
+# Model outputs — large binaries
+outputs/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.jupyter/ 
