@@ -8,18 +8,26 @@ __pycache__/
 .env
 venv/
 
-# Data — never commit datasets to GitHub (too large, often licensed)
+# Large data
+corpus/videos/generated/**/*.mp4
+corpus/videos/generated/**/*.avi
+corpus/videos/curated/**/*.mp4
+corpus/videos/curated/**/*.avi
 data/
 *.mp4
 *.avi
 *.mov
 
-# Model outputs — large binaries
-outputs/
+# Model weights
 *.pth
 *.pt
 *.ckpt
 *.safetensors
+
+# API keys and secrets
+config/secrets.yaml
+config/api_keys.json
+.credentials
 
 # OS
 .DS_Store
@@ -30,4 +38,7 @@ Thumbs.db
 .idea/
 
 # Jupyter
-.jupyter/ 
+.jupyter/
+
+# Old detector work (kept for history but not part of new corpus)
+outputs/
