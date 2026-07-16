@@ -164,7 +164,7 @@ msc-deepfake-detection/
 Clone the repository.
 
 ```bash
-git clone https://github.com/yourusername/msc-deepfake-detection.git
+git clone https://github.com/coderx0319/msc-deepfakedetection.git
 
 cd msc-deepfake-detection
 ```
