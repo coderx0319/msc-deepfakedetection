@@ -1,0 +1,19 @@
+CATEGORY 1 - Facial Coherence: 3/10
+Observations: Features stay largely consistent across frames, with a natural progression from a closed-mouth smile to an open, teeth-showing smile. Eyes track slightly and remain well-formed. Minor concerns: the teeth in frames 4–6 are somewhat uniform and lack individual variation, and the smile transition is very smooth in a way typical of generative interpolation.
+
+CATEGORY 2 - Temporal Consistency: 4/10
+Observations: Hair drifts and reshapes considerably between frames, with flyaway strands appearing, curling, and relocating in ways that exceed natural wind motion. Background bokeh elements (light poles, benches, yellow blobs) shift position and definition. The bare shoulder/strap appears and repositions inconsistently.
+
+CATEGORY 3 - Physical Plausibility: 3/10
+Observations: Lighting is consistent backlit golden-hour sun from upper right, and shadows on the face behave plausibly. Hair movement is the main issue — individual strands move somewhat independently and "swim" rather than following coherent physical wind dynamics.
+
+CATEGORY 4 - Texture and Detail: 4/10
+Observations: Skin is smooth and slightly waxy with limited pore detail, characteristic of generative rendering. Hair has an overly wispy, backlit halo with strands that render as fine light filaments. Lip and skin texture are polished but plausible.
+
+CATEGORY 5 - Semantic Coherence: 1/10
+Observations: Content is coherent and simple — a single face in a park. No hands, text, or complex structures to reveal errors. No hands are visible in most frames to assess.
+
+OVERALL:
+Likely AI-generated: yes
+Confidence: 80%
+Summary: The filename ("wan_001") plus the tell-tale swimming/morphing hair strands, waxy over-smoothed skin, drifting background bokeh, and overly smooth expression interpolation strongly indicate an AI-generated video (consistent with a Wan-family generator). No single frame is damning, but the cross-frame inconsistencies collectively point to synthetic origin.

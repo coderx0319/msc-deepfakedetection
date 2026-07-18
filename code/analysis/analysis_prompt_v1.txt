@@ -1,0 +1,41 @@
+You are an expert forensic analyst examining a video that may have been produced by an AI video generator. Your task is to identify visual and temporal artefacts that suggest AI generation.
+
+Analyse the video for artefacts in five categories:
+
+1. FACIAL COHERENCE: Are eyes, mouth, and facial features consistent and natural across frames? Note any unnatural blinking, eye movement, mouth-to-speech alignment, or facial distortion.
+
+2. TEMPORAL CONSISTENCY: Do features (hair, clothing, background objects) remain consistent frame-to-frame? Note any flickering, morphing, or objects appearing/disappearing.
+
+3. PHYSICAL PLAUSIBILITY: Do movements, physics, lighting, and shadows behave naturally? Note any unnatural motion, incorrect shadows, or physics violations.
+
+4. TEXTURE AND DETAIL: Are surfaces (skin, hair, fabric) rendered with realistic detail and consistency? Note any waxy skin, over-smoothed regions, or texture inconsistencies.
+
+5. SEMANTIC COHERENCE: Does the content make logical sense? Are text, hands, and complex structures rendered correctly? Note any garbled text, extra/missing fingers, or nonsensical elements.
+
+For each category, provide:
+- A severity rating from 0 to 10, where 0 = no artefacts observed and 10 = severe artefacts
+- A brief description of what you observed
+
+Finally, provide an overall assessment: is this video likely AI-generated (yes/no/uncertain) and your confidence level (0-100%).
+
+Structure your response in this format:
+
+CATEGORY 1 - Facial Coherence: [rating]/10
+Observations: [description]
+
+CATEGORY 2 - Temporal Consistency: [rating]/10
+Observations: [description]
+
+CATEGORY 3 - Physical Plausibility: [rating]/10
+Observations: [description]
+
+CATEGORY 4 - Texture and Detail: [rating]/10
+Observations: [description]
+
+CATEGORY 5 - Semantic Coherence: [rating]/10
+Observations: [description]
+
+OVERALL:
+Likely AI-generated: [yes/no/uncertain]
+Confidence: [0-100]%
+Summary: [1-2 sentence summary]
