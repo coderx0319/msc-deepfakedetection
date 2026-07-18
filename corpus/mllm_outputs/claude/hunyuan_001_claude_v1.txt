@@ -1,3 +1,11 @@
+# Model: claude-opus-4-8 (Claude Pro, claude.ai)
+# Date: 2026-07-18
+# Input: 6 frames from hunyuan_001.mp4
+# Prompt version: analysis_prompt_v1
+# Access: claude.ai (Pro subscription, browser)
+
+Response:
+
 Now I can see the frames clearly. Analyzing across the six timestamps:
 CATEGORY 1 - Facial Coherence: 3/10
 Observations: The face is largely consistent and natural across frames — eyes, nose, and mouth stay well-anchored, and the smile reads as genuine with plausible cheek and eye engagement. The subject shifts from a near-frontal gaze (frames 1–2) to a slight off-camera look (frames 4–6) coherently. Minor concerns: the eyes look slightly glassy/over-catchlit in a couple of frames and the inter-frame identity is a touch smoother than a real person's micro-expressions, but there is no melting, drift, or asymmetry of the kind seen in weaker generators.

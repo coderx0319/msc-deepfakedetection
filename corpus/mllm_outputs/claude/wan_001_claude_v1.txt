@@ -1,3 +1,11 @@
+# Model: claude-opus-4-8 (Claude Pro, claude.ai)
+# Date: 2026-07-18
+# Input: 6 frames from wan_001.mp4
+# Prompt version: analysis_prompt_v1
+# Access: claude.ai (Pro subscription, browser)
+
+Response:
+
 CATEGORY 1 - Facial Coherence: 3/10
 Observations: Features stay largely consistent across frames, with a natural progression from a closed-mouth smile to an open, teeth-showing smile. Eyes track slightly and remain well-formed. Minor concerns: the teeth in frames 4–6 are somewhat uniform and lack individual variation, and the smile transition is very smooth in a way typical of generative interpolation.
 

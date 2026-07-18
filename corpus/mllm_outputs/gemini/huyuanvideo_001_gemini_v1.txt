@@ -1,0 +1,28 @@
+
+# Model: gemini-3.5-flash-extended (exact ID from AI Studio dropdown)
+# Date: 2026-07-18
+# Input: 6 frames from huyuanvideo_001.mp4
+# Prompt version: frame_analysis_prompt_v1
+# Access: aistudio.google.com (free tier, browser)
+
+Response:
+
+CATEGORY 1 - Facial Coherence: 3/10
+Observations: Facial features remain remarkably stable with consistent eye gaze, mouth shape, and underlying bone structure across all frames.
+
+CATEGORY 2 - Temporal Consistency: 3/10
+Observations: Hair strands and clothing maintain high consistency, exhibiting only minor, organic-looking shifts without floating elements or sudden morphing.
+
+CATEGORY 3 - Physical Plausibility: 3/10
+Observations: The golden hour rim lighting adheres correctly to the subject's hair and facial contours during the subtle head movements.
+
+CATEGORY 4 - Texture and Detail: 3/10
+Observations: Skin textures, fine hairs, and background bokeh are rendered with fine detail, showing none of the typical waxy or over-smoothed regions.
+
+CATEGORY 5 - Semantic Coherence: 3/10
+Observations: The scene geometry and anatomical structures are fully logical, presenting no impossible or conflicting visual elements.
+
+OVERALL:
+Likely AI-generated: yes
+Confidence: 65%
+Summary: The sequence demonstrates exceptional temporal stability and high-fidelity physical rendering throughout. Subtle micro-consistencies in the fine hair movement suggest the use of a cutting-edge generative video model.

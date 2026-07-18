@@ -1,3 +1,5 @@
+The 6 images below are evenly-spaced frames extracted from a single short video, in temporal order (frame 1 = earliest, frame 6 = latest). Analyse them as a sequence representing one video.
+
 You are an expert forensic analyst examining still frames extracted from a video that may have been produced by an AI video generator. Six frames are provided, sampled at evenly-spaced timestamps across the video's duration.
 Analyse the frames for artefacts in five categories:
 1. FACIAL COHERENCE: Are eyes, mouth, and facial features consistent and natural across frames? Note any unnatural blinking, eye movement, mouth-to-speech alignment, or facial distortion.

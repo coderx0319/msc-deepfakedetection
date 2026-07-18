@@ -1,0 +1,27 @@
+# Model: gemini-3.5-flash-extended (exact ID from AI Studio dropdown)
+# Date: 2026-07-18
+# Input: 6 frames from wan_001.mp4
+# Prompt version: frame_analysis_prompt_v1
+# Access: aistudio.google.com (free tier, browser)
+
+Response:
+
+CATEGORY 1 - Facial Coherence: 4/10
+Observations: Natural progression from a closed mouth to an open smile. Features remain aligned with no major structural distortion across the frames.
+
+CATEGORY 2 - Temporal Consistency: 5/10
+Observations: Background bokeh and primary facial features remain stable, though fine backlit hair strands show minor micro-morphing between frames.
+
+CATEGORY 3 - Physical Plausibility: 4/10
+Observations: Volumetric backlighting and shadow placement are highly realistic. Hair motion appears slightly fluidic rather than strictly wind-driven.
+
+CATEGORY 4 - Texture and Detail: 5/10
+Observations: Fine details in the hair are sharp, but the facial skin exhibits an overly smooth, flawless texture typical of synthetic generation.
+
+CATEGORY 5 - Semantic Coherence: 3/10
+Observations: Logical scene composition throughout. Teeth structure and visible environmental elements are rendered with correct geometry.
+
+OVERALL:
+Likely AI-generated: yes
+Confidence: 75%
+Summary: The sequence shows high temporal consistency and structural integrity, with synthetic indicators limited to idealized skin textures and subtle hair morphing.
