@@ -1,0 +1,67 @@
+﻿# Week 2 batch prompts — v1
+# Format: prompt_id|category|prompt_text
+# Categories: portrait, hands, multi_person, motion, text_scene, texture, animal, edge_case
+
+
+# --- PORTRAITS (facial coherence stress) ---
+w2_001|portrait|A woman in her twenties with red hair tucked behind her ear, singing softly with her eyes closed, dim indoor stage lighting 
+w2_002|portrait|An older man laughing while telling a story, cafe interior, warm lighting
+w2_003|portrait|A young man with glasses reading a book, close-up on his face, soft afternoon light
+w2_004|portrait|A woman with curly hair looking thoughtfully out a rainy window, muted colours
+w2_005|portrait|A bearded chef tasting food from a spoon, kitchen background, dramatic lighting
+
+
+# --- HANDS AND FINE MOTOR (semantic coherence stress) ---
+w2_006|hands|Close-up of a person typing on a laptop keyboard, both hands visible, coffee shop background
+w2_007|hands|A hand pouring milk from a glass bottle into a coffee cup, kitchen counter
+w2_008|hands|Someone tying their shoelaces, close-up on hands and shoes, park bench
+w2_009|hands|A person writing in a notebook with a fountain pen, close-up on the hand and paper
+w2_010|hands|Two hands shuffling a deck of playing cards on a wooden table
+
+
+# --- MULTI-PERSON INTERACTION (identity + spatial coherence) ---
+w2_011|multi_person|Two friends walking down a busy street talking to each other, afternoon light
+w2_012|multi_person|A family of four eating dinner at a dining table, warm evening light
+w2_013|multi_person|Three colleagues in a meeting room having a discussion, whiteboard visible
+w2_014|multi_person|A parent teaching a child to ride a bicycle in a park, sunny day
+w2_015|multi_person|A couple sitting on a park bench feeding pigeons, autumn leaves
+
+
+# --- MOTION AND PHYSICS (temporal consistency stress) ---
+w2_016|motion|A person kicking a soccer ball toward the camera, grass field, dynamic motion
+w2_017|motion|A jogger running along a beach at sunrise, waves in the background
+w2_018|motion|A skateboarder performing a trick on a ramp, urban skate park
+w2_019|motion|Water splashing as a swimmer dives into a pool, high-speed capture
+w2_020|motion|A tennis player serving a ball on a clay court, dust visible
+
+
+# --- TEXT IN SCENE (semantic coherence — text handling) ---
+w2_021|text_scene|A shopkeeper standing in front of a bookstore, storefront signage visible
+w2_022|text_scene|A newspaper vendor at a street corner with newspapers displayed
+w2_023|text_scene|A person walking past a chalkboard menu outside a cafe
+w2_024|text_scene|A traveller checking a departure board at a train station
+w2_025|text_scene|A student writing on a whiteboard in a classroom, equations visible
+
+
+# --- COMPLEX TEXTURES (texture and detail stress) ---
+w2_026|texture|Close-up of a chef chopping vegetables on a wooden cutting board, natural kitchen lighting
+w2_027|texture|A weaver working on a traditional loom, colourful threads visible
+w2_028|texture|Rain falling on a window with a blurred city view outside, moody atmosphere
+w2_029|texture|A potter shaping wet clay on a spinning wheel, close-up on hands and clay
+w2_030|texture|A barista pouring latte art into a cup, close-up on the milk and foam
+
+
+# --- ANIMALS (non-human texture/coherence) ---
+w2_031|animal|A golden retriever running in slow motion across a lawn, sunny day
+w2_032|animal|A cat stretching lazily on a sunlit windowsill, indoor scene
+w2_033|animal|A horse galloping through an open field, wind blowing its mane
+w2_034|animal|A parrot preening its feathers on a wooden perch, tropical background
+w2_035|animal|A school of fish swimming through a coral reef, underwater scene
+
+
+# --- EDGE CASES (challenge scenarios) ---
+w2_036|edge_case|A magician performing a card trick, hands and cards in mid-motion, stage lighting
+w2_037|edge_case|A dancer spinning in a red dress under a spotlight, dramatic shadows
+w2_038|edge_case|A person applying makeup in front of a mirror, close-up showing both real face and reflection
+w2_039|edge_case|A crowded market at night with many people walking, string lights above
+w2_040|edge_case|A person walking their dog past a shop window, both dog and reflection visible
