@@ -1,0 +1,20 @@
+{
+  "video_id": "w2_029_hunyuan_20260719_145312",
+  "prompt_id": "w2_029",
+  "category": "texture",
+  "original_prompt": "A potter shaping wet clay on a spinning wheel, close-up on hands and clay",
+  "full_prompt": "A potter shaping wet clay on a spinning wheel, close-up on hands and clay, natural lighting, cinematic quality, high detail, realistic",
+  "generator": "HunyuanVideo",
+  "generation_time_seconds": 171.195934,
+  "generation_datetime": "20260719_145312",
+  "gpu": "A100",
+  "model_id": "hunyuanvideo-community/HunyuanVideo",
+  "height": 480,
+  "width": 704,
+  "num_frames": 73,
+  "num_inference_steps": 20,
+  "guidance_scale": 6.0,
+  "seed": 42,
+  "torch_dtype": "bfloat16",
+  "cinematic_suffix": ", natural lighting, cinematic quality, high detail, realistic"
+}

@@ -1,0 +1,20 @@
+{
+  "video_id": "w2_018_hunyuan_20260719_142127",
+  "prompt_id": "w2_018",
+  "category": "motion",
+  "original_prompt": "A skateboarder performing a trick on a ramp, urban skate park",
+  "full_prompt": "A skateboarder performing a trick on a ramp, urban skate park, natural lighting, cinematic quality, high detail, realistic",
+  "generator": "HunyuanVideo",
+  "generation_time_seconds": 171.172679,
+  "generation_datetime": "20260719_142127",
+  "gpu": "A100",
+  "model_id": "hunyuanvideo-community/HunyuanVideo",
+  "height": 480,
+  "width": 704,
+  "num_frames": 73,
+  "num_inference_steps": 20,
+  "guidance_scale": 6.0,
+  "seed": 42,
+  "torch_dtype": "bfloat16",
+  "cinematic_suffix": ", natural lighting, cinematic quality, high detail, realistic"
+}

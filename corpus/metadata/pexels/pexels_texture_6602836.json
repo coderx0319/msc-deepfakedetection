@@ -1,0 +1,30 @@
+{
+  "video_id": "pexels_texture_6602836.mp4",
+  "pexels_id": "6602836",
+  "category": "texture",
+  "generator": "Real video (not AI-generated)",
+  "source_type": "real_baseline",
+  "access_method": "Pexels API (free tier)",
+  "collection_date": "2026-07-20",
+  "pexels_page_url": "https://www.pexels.com/video/6602836/",
+  "license": "Pexels License (free for commercial and research use, no attribution required)",
+  "normalisation_applied": {
+    "target_resolution": "832x480",
+    "target_fps": 24,
+    "target_duration_sec": 3,
+    "codec": "libx264",
+    "crf": 18,
+    "preset": "slow",
+    "audio": "stripped",
+    "aspect_handling": "letterbox with black padding"
+  },
+  "actual_file_specs": {
+    "actual_width": 832,
+    "actual_height": 480,
+    "actual_fps": 24.0,
+    "actual_duration_sec": 3.0,
+    "actual_codec": "h264",
+    "actual_filesize_bytes": 358715,
+    "actual_bitrate_bps": 956573
+  }
+}

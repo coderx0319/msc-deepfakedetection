@@ -1,0 +1,20 @@
+{
+  "video_id": "w2_033_hunyuan_20260719_150439",
+  "prompt_id": "w2_033",
+  "category": "animal",
+  "original_prompt": "A horse galloping through an open field, wind blowing its mane",
+  "full_prompt": "A horse galloping through an open field, wind blowing its mane, natural lighting, cinematic quality, high detail, realistic",
+  "generator": "HunyuanVideo",
+  "generation_time_seconds": 171.156322,
+  "generation_datetime": "20260719_150439",
+  "gpu": "A100",
+  "model_id": "hunyuanvideo-community/HunyuanVideo",
+  "height": 480,
+  "width": 704,
+  "num_frames": 73,
+  "num_inference_steps": 20,
+  "guidance_scale": 6.0,
+  "seed": 42,
+  "torch_dtype": "bfloat16",
+  "cinematic_suffix": ", natural lighting, cinematic quality, high detail, realistic"
+}

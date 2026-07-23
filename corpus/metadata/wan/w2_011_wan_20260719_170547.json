@@ -1,0 +1,22 @@
+{
+  "video_id": "w2_011_wan_20260719_170547",
+  "prompt_id": "w2_011",
+  "category": "multi_person",
+  "original_prompt": "Two friends walking down a busy street talking to each other, afternoon light",
+  "full_prompt": "Two friends walking down a busy street talking to each other, afternoon light, natural lighting, cinematic quality, high detail, realistic",
+  "generator": "Wan 2.2 T2V-A14B",
+  "generation_time_seconds": 245.497328,
+  "generation_datetime": "20260719_170547",
+  "gpu": "A100",
+  "model_id": "Wan-AI/Wan2.2-T2V-A14B-Diffusers",
+  "height": 480,
+  "width": 832,
+  "num_frames": 49,
+  "num_inference_steps": 25,
+  "guidance_scale": 5.0,
+  "seed": 42,
+  "fps": 16,
+  "torch_dtype": "bfloat16",
+  "cinematic_suffix": ", natural lighting, cinematic quality, high detail, realistic",
+  "negative_prompt": "blurry, low quality, distorted, unnatural, deformed"
+}

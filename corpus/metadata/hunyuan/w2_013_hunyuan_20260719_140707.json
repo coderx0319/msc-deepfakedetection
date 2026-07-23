@@ -1,0 +1,20 @@
+{
+  "video_id": "w2_013_hunyuan_20260719_140707",
+  "prompt_id": "w2_013",
+  "category": "multi_person",
+  "original_prompt": "Three colleagues in a meeting room having a discussion, whiteboard visible",
+  "full_prompt": "Three colleagues in a meeting room having a discussion, whiteboard visible, natural lighting, cinematic quality, high detail, realistic",
+  "generator": "HunyuanVideo",
+  "generation_time_seconds": 171.360451,
+  "generation_datetime": "20260719_140707",
+  "gpu": "A100",
+  "model_id": "hunyuanvideo-community/HunyuanVideo",
+  "height": 480,
+  "width": 704,
+  "num_frames": 73,
+  "num_inference_steps": 20,
+  "guidance_scale": 6.0,
+  "seed": 42,
+  "torch_dtype": "bfloat16",
+  "cinematic_suffix": ", natural lighting, cinematic quality, high detail, realistic"
+}

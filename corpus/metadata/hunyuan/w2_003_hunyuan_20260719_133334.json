@@ -1,0 +1,20 @@
+{
+  "video_id": "w2_003_hunyuan_20260719_133334",
+  "prompt_id": "w2_003",
+  "category": "portrait",
+  "original_prompt": "A young man with glasses reading a book, close-up on his face, soft afternoon light",
+  "full_prompt": "A young man with glasses reading a book, close-up on his face, soft afternoon light, natural lighting, cinematic quality, high detail, realistic",
+  "generator": "HunyuanVideo",
+  "generation_time_seconds": 169.829359,
+  "generation_datetime": "20260719_133334",
+  "gpu": "A100",
+  "model_id": "hunyuanvideo-community/HunyuanVideo",
+  "height": 480,
+  "width": 704,
+  "num_frames": 73,
+  "num_inference_steps": 20,
+  "guidance_scale": 6.0,
+  "seed": 42,
+  "torch_dtype": "bfloat16",
+  "cinematic_suffix": ", natural lighting, cinematic quality, high detail, realistic"
+}

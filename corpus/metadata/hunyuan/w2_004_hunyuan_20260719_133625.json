@@ -1,0 +1,20 @@
+{
+  "video_id": "w2_004_hunyuan_20260719_133625",
+  "prompt_id": "w2_004",
+  "category": "portrait",
+  "original_prompt": "A woman with curly hair looking thoughtfully out a rainy window, muted colours",
+  "full_prompt": "A woman with curly hair looking thoughtfully out a rainy window, muted colours, natural lighting, cinematic quality, high detail, realistic",
+  "generator": "HunyuanVideo",
+  "generation_time_seconds": 170.00419,
+  "generation_datetime": "20260719_133625",
+  "gpu": "A100",
+  "model_id": "hunyuanvideo-community/HunyuanVideo",
+  "height": 480,
+  "width": 704,
+  "num_frames": 73,
+  "num_inference_steps": 20,
+  "guidance_scale": 6.0,
+  "seed": 42,
+  "torch_dtype": "bfloat16",
+  "cinematic_suffix": ", natural lighting, cinematic quality, high detail, realistic"
+}

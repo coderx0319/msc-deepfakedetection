@@ -1,0 +1,20 @@
+{
+  "video_id": "w2_024_hunyuan_20260719_143853",
+  "prompt_id": "w2_024",
+  "category": "text_scene",
+  "original_prompt": "A traveller checking a departure board at a train station",
+  "full_prompt": "A traveller checking a departure board at a train station, natural lighting, cinematic quality, high detail, realistic",
+  "generator": "HunyuanVideo",
+  "generation_time_seconds": 171.154642,
+  "generation_datetime": "20260719_143853",
+  "gpu": "A100",
+  "model_id": "hunyuanvideo-community/HunyuanVideo",
+  "height": 480,
+  "width": 704,
+  "num_frames": 73,
+  "num_inference_steps": 20,
+  "guidance_scale": 6.0,
+  "seed": 42,
+  "torch_dtype": "bfloat16",
+  "cinematic_suffix": ", natural lighting, cinematic quality, high detail, realistic"
+}

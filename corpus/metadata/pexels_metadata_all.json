@@ -1,0 +1,1922 @@
+[
+  {
+    "video_id": "pexels_animal_18106001.mp4",
+    "pexels_id": "18106001",
+    "category": "animal",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/18106001/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 466593,
+      "actual_bitrate_bps": 1244248
+    }
+  },
+  {
+    "video_id": "pexels_animal_19568439.mp4",
+    "pexels_id": "19568439",
+    "category": "animal",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/19568439/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 969316,
+      "actual_bitrate_bps": 2584842
+    }
+  },
+  {
+    "video_id": "pexels_animal_35282483.mp4",
+    "pexels_id": "35282483",
+    "category": "animal",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/35282483/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 1930940,
+      "actual_bitrate_bps": 5149173
+    }
+  },
+  {
+    "video_id": "pexels_animal_35921279.mp4",
+    "pexels_id": "35921279",
+    "category": "animal",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/35921279/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 640551,
+      "actual_bitrate_bps": 1708136
+    }
+  },
+  {
+    "video_id": "pexels_animal_36041061.mp4",
+    "pexels_id": "36041061",
+    "category": "animal",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/36041061/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 1180007,
+      "actual_bitrate_bps": 3146685
+    }
+  },
+  {
+    "video_id": "pexels_animal_37746776.mp4",
+    "pexels_id": "37746776",
+    "category": "animal",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/37746776/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 988673,
+      "actual_bitrate_bps": 2636461
+    }
+  },
+  {
+    "video_id": "pexels_animal_4651948.mp4",
+    "pexels_id": "4651948",
+    "category": "animal",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/4651948/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 326320,
+      "actual_bitrate_bps": 870186
+    }
+  },
+  {
+    "video_id": "pexels_animal_6983539.mp4",
+    "pexels_id": "6983539",
+    "category": "animal",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/6983539/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 911754,
+      "actual_bitrate_bps": 2431344
+    }
+  },
+  {
+    "video_id": "pexels_edge_case_13004609.mp4",
+    "pexels_id": "13004609",
+    "category": "edge_case",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/13004609/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 75613,
+      "actual_bitrate_bps": 201634
+    }
+  },
+  {
+    "video_id": "pexels_edge_case_20200360.mp4",
+    "pexels_id": "20200360",
+    "category": "edge_case",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/20200360/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 495278,
+      "actual_bitrate_bps": 1320741
+    }
+  },
+  {
+    "video_id": "pexels_edge_case_26491575.mp4",
+    "pexels_id": "26491575",
+    "category": "edge_case",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/26491575/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 404001,
+      "actual_bitrate_bps": 1077336
+    }
+  },
+  {
+    "video_id": "pexels_edge_case_26491663.mp4",
+    "pexels_id": "26491663",
+    "category": "edge_case",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/26491663/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 688188,
+      "actual_bitrate_bps": 1835168
+    }
+  },
+  {
+    "video_id": "pexels_edge_case_26607072.mp4",
+    "pexels_id": "26607072",
+    "category": "edge_case",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/26607072/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 230590,
+      "actual_bitrate_bps": 614906
+    }
+  },
+  {
+    "video_id": "pexels_edge_case_36187024.mp4",
+    "pexels_id": "36187024",
+    "category": "edge_case",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/36187024/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 3102069,
+      "actual_bitrate_bps": 8272184
+    }
+  },
+  {
+    "video_id": "pexels_edge_case_37996025.mp4",
+    "pexels_id": "37996025",
+    "category": "edge_case",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/37996025/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 1662367,
+      "actual_bitrate_bps": 4432978
+    }
+  },
+  {
+    "video_id": "pexels_edge_case_38124533.mp4",
+    "pexels_id": "38124533",
+    "category": "edge_case",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/38124533/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 1051986,
+      "actual_bitrate_bps": 2805296
+    }
+  },
+  {
+    "video_id": "pexels_hands_10048810.mp4",
+    "pexels_id": "10048810",
+    "category": "hands",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/10048810/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 325813,
+      "actual_bitrate_bps": 868834
+    }
+  },
+  {
+    "video_id": "pexels_hands_1326864.mp4",
+    "pexels_id": "1326864",
+    "category": "hands",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/1326864/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 415315,
+      "actual_bitrate_bps": 1107506
+    }
+  },
+  {
+    "video_id": "pexels_hands_2369564.mp4",
+    "pexels_id": "2369564",
+    "category": "hands",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/2369564/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 324339,
+      "actual_bitrate_bps": 864904
+    }
+  },
+  {
+    "video_id": "pexels_hands_37239368.mp4",
+    "pexels_id": "37239368",
+    "category": "hands",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/37239368/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 534915,
+      "actual_bitrate_bps": 1426440
+    }
+  },
+  {
+    "video_id": "pexels_hands_37239369.mp4",
+    "pexels_id": "37239369",
+    "category": "hands",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/37239369/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 486114,
+      "actual_bitrate_bps": 1296304
+    }
+  },
+  {
+    "video_id": "pexels_hands_3797834.mp4",
+    "pexels_id": "3797834",
+    "category": "hands",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/3797834/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 435723,
+      "actual_bitrate_bps": 1161928
+    }
+  },
+  {
+    "video_id": "pexels_hands_4201451.mp4",
+    "pexels_id": "4201451",
+    "category": "hands",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/4201451/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 814018,
+      "actual_bitrate_bps": 2170714
+    }
+  },
+  {
+    "video_id": "pexels_hands_8888977.mp4",
+    "pexels_id": "8888977",
+    "category": "hands",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/8888977/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 505101,
+      "actual_bitrate_bps": 1346936
+    }
+  },
+  {
+    "video_id": "pexels_motion_10453254.mp4",
+    "pexels_id": "10453254",
+    "category": "motion",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/10453254/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 408998,
+      "actual_bitrate_bps": 1090661
+    }
+  },
+  {
+    "video_id": "pexels_motion_18006916.mp4",
+    "pexels_id": "18006916",
+    "category": "motion",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/18006916/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 191677,
+      "actual_bitrate_bps": 511138
+    }
+  },
+  {
+    "video_id": "pexels_motion_30147550.mp4",
+    "pexels_id": "30147550",
+    "category": "motion",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/30147550/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 945799,
+      "actual_bitrate_bps": 2522130
+    }
+  },
+  {
+    "video_id": "pexels_motion_5039493.mp4",
+    "pexels_id": "5039493",
+    "category": "motion",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/5039493/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 652580,
+      "actual_bitrate_bps": 1740213
+    }
+  },
+  {
+    "video_id": "pexels_motion_6078256.mp4",
+    "pexels_id": "6078256",
+    "category": "motion",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/6078256/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 181372,
+      "actual_bitrate_bps": 483658
+    }
+  },
+  {
+    "video_id": "pexels_motion_7187057.mp4",
+    "pexels_id": "7187057",
+    "category": "motion",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/7187057/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 747311,
+      "actual_bitrate_bps": 1992829
+    }
+  },
+  {
+    "video_id": "pexels_motion_7876930.mp4",
+    "pexels_id": "7876930",
+    "category": "motion",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/7876930/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 691966,
+      "actual_bitrate_bps": 1845242
+    }
+  },
+  {
+    "video_id": "pexels_motion_8344814.mp4",
+    "pexels_id": "8344814",
+    "category": "motion",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/8344814/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 1347687,
+      "actual_bitrate_bps": 3593832
+    }
+  },
+  {
+    "video_id": "pexels_multi_person_6305116.mp4",
+    "pexels_id": "6305116",
+    "category": "multi_person",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/6305116/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 431942,
+      "actual_bitrate_bps": 1151845
+    }
+  },
+  {
+    "video_id": "pexels_multi_person_6305179.mp4",
+    "pexels_id": "6305179",
+    "category": "multi_person",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/6305179/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 419129,
+      "actual_bitrate_bps": 1117677
+    }
+  },
+  {
+    "video_id": "pexels_multi_person_6686947.mp4",
+    "pexels_id": "6686947",
+    "category": "multi_person",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/6686947/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 309630,
+      "actual_bitrate_bps": 825680
+    }
+  },
+  {
+    "video_id": "pexels_multi_person_7199217.mp4",
+    "pexels_id": "7199217",
+    "category": "multi_person",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/7199217/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 290544,
+      "actual_bitrate_bps": 774784
+    }
+  },
+  {
+    "video_id": "pexels_multi_person_7325946.mp4",
+    "pexels_id": "7325946",
+    "category": "multi_person",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/7325946/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 622499,
+      "actual_bitrate_bps": 1659997
+    }
+  },
+  {
+    "video_id": "pexels_multi_person_8121423.mp4",
+    "pexels_id": "8121423",
+    "category": "multi_person",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/8121423/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 1113585,
+      "actual_bitrate_bps": 2969560
+    }
+  },
+  {
+    "video_id": "pexels_multi_person_8481271.mp4",
+    "pexels_id": "8481271",
+    "category": "multi_person",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/8481271/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 737800,
+      "actual_bitrate_bps": 1967466
+    }
+  },
+  {
+    "video_id": "pexels_multi_person_8774198.mp4",
+    "pexels_id": "8774198",
+    "category": "multi_person",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/8774198/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 1252941,
+      "actual_bitrate_bps": 3341176
+    }
+  },
+  {
+    "video_id": "pexels_portrait_4057145.mp4",
+    "pexels_id": "4057145",
+    "category": "portrait",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/4057145/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 288079,
+      "actual_bitrate_bps": 768210
+    }
+  },
+  {
+    "video_id": "pexels_portrait_5045936.mp4",
+    "pexels_id": "5045936",
+    "category": "portrait",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/5045936/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 152808,
+      "actual_bitrate_bps": 407488
+    }
+  },
+  {
+    "video_id": "pexels_portrait_5051072.mp4",
+    "pexels_id": "5051072",
+    "category": "portrait",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/5051072/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 481529,
+      "actual_bitrate_bps": 1284077
+    }
+  },
+  {
+    "video_id": "pexels_portrait_6099467.mp4",
+    "pexels_id": "6099467",
+    "category": "portrait",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/6099467/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 190326,
+      "actual_bitrate_bps": 507536
+    }
+  },
+  {
+    "video_id": "pexels_portrait_7203426.mp4",
+    "pexels_id": "7203426",
+    "category": "portrait",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/7203426/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 100970,
+      "actual_bitrate_bps": 269253
+    }
+  },
+  {
+    "video_id": "pexels_portrait_7735868.mp4",
+    "pexels_id": "7735868",
+    "category": "portrait",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/7735868/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 385075,
+      "actual_bitrate_bps": 1026866
+    }
+  },
+  {
+    "video_id": "pexels_portrait_8724243.mp4",
+    "pexels_id": "8724243",
+    "category": "portrait",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/8724243/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 207628,
+      "actual_bitrate_bps": 553674
+    }
+  },
+  {
+    "video_id": "pexels_portrait_8724519.mp4",
+    "pexels_id": "8724519",
+    "category": "portrait",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/8724519/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 128936,
+      "actual_bitrate_bps": 343829
+    }
+  },
+  {
+    "video_id": "pexels_text_scene_33923464.mp4",
+    "pexels_id": "33923464",
+    "category": "text_scene",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/33923464/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 554989,
+      "actual_bitrate_bps": 1479970
+    }
+  },
+  {
+    "video_id": "pexels_text_scene_5920143.mp4",
+    "pexels_id": "5920143",
+    "category": "text_scene",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/5920143/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 424711,
+      "actual_bitrate_bps": 1132562
+    }
+  },
+  {
+    "video_id": "pexels_text_scene_6103527.mp4",
+    "pexels_id": "6103527",
+    "category": "text_scene",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/6103527/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 396001,
+      "actual_bitrate_bps": 1056002
+    }
+  },
+  {
+    "video_id": "pexels_text_scene_7557411.mp4",
+    "pexels_id": "7557411",
+    "category": "text_scene",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/7557411/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 404233,
+      "actual_bitrate_bps": 1077954
+    }
+  },
+  {
+    "video_id": "pexels_text_scene_7778358.mp4",
+    "pexels_id": "7778358",
+    "category": "text_scene",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/7778358/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 622603,
+      "actual_bitrate_bps": 1660274
+    }
+  },
+  {
+    "video_id": "pexels_text_scene_8567117.mp4",
+    "pexels_id": "8567117",
+    "category": "text_scene",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/8567117/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 538227,
+      "actual_bitrate_bps": 1435272
+    }
+  },
+  {
+    "video_id": "pexels_text_scene_8617056.mp4",
+    "pexels_id": "8617056",
+    "category": "text_scene",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/8617056/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 405803,
+      "actual_bitrate_bps": 1082141
+    }
+  },
+  {
+    "video_id": "pexels_text_scene_8617059.mp4",
+    "pexels_id": "8617059",
+    "category": "text_scene",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/8617059/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 323083,
+      "actual_bitrate_bps": 861554
+    }
+  },
+  {
+    "video_id": "pexels_texture_12171874.mp4",
+    "pexels_id": "12171874",
+    "category": "texture",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/12171874/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 764943,
+      "actual_bitrate_bps": 2039848
+    }
+  },
+  {
+    "video_id": "pexels_texture_15419572.mp4",
+    "pexels_id": "15419572",
+    "category": "texture",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/15419572/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 835777,
+      "actual_bitrate_bps": 2228738
+    }
+  },
+  {
+    "video_id": "pexels_texture_28000739.mp4",
+    "pexels_id": "28000739",
+    "category": "texture",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/28000739/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 394714,
+      "actual_bitrate_bps": 1052570
+    }
+  },
+  {
+    "video_id": "pexels_texture_4253330.mp4",
+    "pexels_id": "4253330",
+    "category": "texture",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/4253330/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 486690,
+      "actual_bitrate_bps": 1297840
+    }
+  },
+  {
+    "video_id": "pexels_texture_5566249.mp4",
+    "pexels_id": "5566249",
+    "category": "texture",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/5566249/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 580653,
+      "actual_bitrate_bps": 1548408
+    }
+  },
+  {
+    "video_id": "pexels_texture_6602836.mp4",
+    "pexels_id": "6602836",
+    "category": "texture",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/6602836/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 358715,
+      "actual_bitrate_bps": 956573
+    }
+  },
+  {
+    "video_id": "pexels_texture_7008577.mp4",
+    "pexels_id": "7008577",
+    "category": "texture",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/7008577/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 526705,
+      "actual_bitrate_bps": 1404546
+    }
+  },
+  {
+    "video_id": "pexels_texture_9166501.mp4",
+    "pexels_id": "9166501",
+    "category": "texture",
+    "generator": "Real video (not AI-generated)",
+    "source_type": "real_baseline",
+    "access_method": "Pexels API (free tier)",
+    "collection_date": "2026-07-20",
+    "pexels_page_url": "https://www.pexels.com/video/9166501/",
+    "license": "Pexels License (free for commercial and research use, no attribution required)",
+    "normalisation_applied": {
+      "target_resolution": "832x480",
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_file_specs": {
+      "actual_width": 832,
+      "actual_height": 480,
+      "actual_fps": 24.0,
+      "actual_duration_sec": 3.0,
+      "actual_codec": "h264",
+      "actual_filesize_bytes": 517630,
+      "actual_bitrate_bps": 1380346
+    }
+  }
+]

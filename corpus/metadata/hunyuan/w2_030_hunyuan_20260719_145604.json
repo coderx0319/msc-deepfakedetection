@@ -1,0 +1,20 @@
+{
+  "video_id": "w2_030_hunyuan_20260719_145604",
+  "prompt_id": "w2_030",
+  "category": "texture",
+  "original_prompt": "A barista pouring latte art into a cup, close-up on the milk and foam",
+  "full_prompt": "A barista pouring latte art into a cup, close-up on the milk and foam, natural lighting, cinematic quality, high detail, realistic",
+  "generator": "HunyuanVideo",
+  "generation_time_seconds": 171.061266,
+  "generation_datetime": "20260719_145604",
+  "gpu": "A100",
+  "model_id": "hunyuanvideo-community/HunyuanVideo",
+  "height": 480,
+  "width": 704,
+  "num_frames": 73,
+  "num_inference_steps": 20,
+  "guidance_scale": 6.0,
+  "seed": 42,
+  "torch_dtype": "bfloat16",
+  "cinematic_suffix": ", natural lighting, cinematic quality, high detail, realistic"
+}

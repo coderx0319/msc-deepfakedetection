@@ -1,0 +1,22 @@
+{
+  "video_id": "w2_033_wan_20260719_183755",
+  "prompt_id": "w2_033",
+  "category": "animal",
+  "original_prompt": "A horse galloping through an open field, wind blowing its mane",
+  "full_prompt": "A horse galloping through an open field, wind blowing its mane, natural lighting, cinematic quality, high detail, realistic",
+  "generator": "Wan 2.2 T2V-A14B",
+  "generation_time_seconds": 244.865835,
+  "generation_datetime": "20260719_183755",
+  "gpu": "A100",
+  "model_id": "Wan-AI/Wan2.2-T2V-A14B-Diffusers",
+  "height": 480,
+  "width": 832,
+  "num_frames": 49,
+  "num_inference_steps": 25,
+  "guidance_scale": 5.0,
+  "seed": 42,
+  "fps": 16,
+  "torch_dtype": "bfloat16",
+  "cinematic_suffix": ", natural lighting, cinematic quality, high detail, realistic",
+  "negative_prompt": "blurry, low quality, distorted, unnatural, deformed"
+}

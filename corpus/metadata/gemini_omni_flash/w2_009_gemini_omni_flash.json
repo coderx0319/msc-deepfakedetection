@@ -1,0 +1,38 @@
+{
+  "video_id": "w2_009_gemini_omni_flash.mp4",
+  "generator": "Gemini Omni Flash",
+  "source_type": "commercial",
+  "access_method": "Higgsfield trial",
+  "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+  "normalisation": {
+    "target_width": 832,
+    "target_height": 480,
+    "target_fps": 24,
+    "target_duration_sec": 3,
+    "codec": "libx264",
+    "crf": 18,
+    "preset": "slow",
+    "audio": "stripped",
+    "aspect_handling": "letterbox with black padding"
+  },
+  "actual_specs": {
+    "width": 832,
+    "height": 480,
+    "fps": 24.0,
+    "duration_sec": 3.0,
+    "codec": "h264",
+    "filesize_bytes": 310405,
+    "bitrate_bps": 827746
+  },
+  "prompt_id": "w2_009",
+  "category": "hands",
+  "original_prompt": "A person writing in a notebook with a fountain pen, close-up on the hand and paper",
+  "full_prompt": "A person writing in a notebook with a fountain pen, close-up on the hand and paper, natural lighting, cinematic quality, high detail, realistic",
+  "generation_date": "2026-07-21",
+  "native_specs": {
+    "resolution": "1280x720",
+    "duration_sec": 4,
+    "audio": true
+  },
+  "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+}

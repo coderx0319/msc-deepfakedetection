@@ -1,0 +1,1218 @@
+[
+  {
+    "video_id": "w2_001_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 386385,
+      "bitrate_bps": 1030360
+    },
+    "prompt_id": "w2_001",
+    "category": "portrait",
+    "original_prompt": "A woman in her twenties with red hair tucked behind her ear, singing softly with her eyes closed, dim indoor stage lighting",
+    "full_prompt": "A woman in her twenties with red hair tucked behind her ear, singing softly with her eyes closed, dim indoor stage lighting, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  },
+  {
+    "video_id": "w2_002_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 492193,
+      "bitrate_bps": 1312514
+    },
+    "prompt_id": "w2_002",
+    "category": "portrait",
+    "original_prompt": "An older man laughing while telling a story, cafe interior, warm lighting",
+    "full_prompt": "An older man laughing while telling a story, cafe interior, warm lighting, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  },
+  {
+    "video_id": "w2_003_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 297019,
+      "bitrate_bps": 792050
+    },
+    "prompt_id": "w2_003",
+    "category": "portrait",
+    "original_prompt": "A young man with glasses reading a book, close-up on his face, soft afternoon light",
+    "full_prompt": "A young man with glasses reading a book, close-up on his face, soft afternoon light, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  },
+  {
+    "video_id": "w2_004_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 590322,
+      "bitrate_bps": 1574192
+    },
+    "prompt_id": "w2_004",
+    "category": "portrait",
+    "original_prompt": "A woman with curly hair looking thoughtfully out a rainy window, muted colours",
+    "full_prompt": "A woman with curly hair looking thoughtfully out a rainy window, muted colours, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  },
+  {
+    "video_id": "w2_006_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 447179,
+      "bitrate_bps": 1192477
+    },
+    "prompt_id": "w2_006",
+    "category": "hands",
+    "original_prompt": "Close-up of a person typing on a laptop keyboard, both hands visible, coffee shop background",
+    "full_prompt": "Close-up of a person typing on a laptop keyboard, both hands visible, coffee shop background, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  },
+  {
+    "video_id": "w2_007_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 429887,
+      "bitrate_bps": 1146365
+    },
+    "prompt_id": "w2_007",
+    "category": "hands",
+    "original_prompt": "A hand pouring milk from a glass bottle into a coffee cup, kitchen counter",
+    "full_prompt": "A hand pouring milk from a glass bottle into a coffee cup, kitchen counter, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  },
+  {
+    "video_id": "w2_008_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 568805,
+      "bitrate_bps": 1516813
+    },
+    "prompt_id": "w2_008",
+    "category": "hands",
+    "original_prompt": "Someone tying their shoelaces, close-up on hands and shoes, park bench",
+    "full_prompt": "Someone tying their shoelaces, close-up on hands and shoes, park bench, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  },
+  {
+    "video_id": "w2_009_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 310405,
+      "bitrate_bps": 827746
+    },
+    "prompt_id": "w2_009",
+    "category": "hands",
+    "original_prompt": "A person writing in a notebook with a fountain pen, close-up on the hand and paper",
+    "full_prompt": "A person writing in a notebook with a fountain pen, close-up on the hand and paper, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  },
+  {
+    "video_id": "w2_011_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 792757,
+      "bitrate_bps": 2114018
+    },
+    "prompt_id": "w2_011",
+    "category": "multi_person",
+    "original_prompt": "Two friends walking down a busy street talking to each other, afternoon light",
+    "full_prompt": "Two friends walking down a busy street talking to each other, afternoon light, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  },
+  {
+    "video_id": "w2_012_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 563782,
+      "bitrate_bps": 1503418
+    },
+    "prompt_id": "w2_012",
+    "category": "multi_person",
+    "original_prompt": "A family of four eating dinner at a dining table, warm evening light",
+    "full_prompt": "A family of four eating dinner at a dining table, warm evening light, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  },
+  {
+    "video_id": "w2_013_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 430013,
+      "bitrate_bps": 1146701
+    },
+    "prompt_id": "w2_013",
+    "category": "multi_person",
+    "original_prompt": "Three colleagues in a meeting room having a discussion, whiteboard visible",
+    "full_prompt": "Three colleagues in a meeting room having a discussion, whiteboard visible, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  },
+  {
+    "video_id": "w2_014_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 920164,
+      "bitrate_bps": 2453770
+    },
+    "prompt_id": "w2_014",
+    "category": "multi_person",
+    "original_prompt": "A parent teaching a child to ride a bicycle in a park, sunny day",
+    "full_prompt": "A parent teaching a child to ride a bicycle in a park, sunny day, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  },
+  {
+    "video_id": "w2_016_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 751536,
+      "bitrate_bps": 2004096
+    },
+    "prompt_id": "w2_016",
+    "category": "motion",
+    "original_prompt": "A person kicking a soccer ball toward the camera, grass field, dynamic motion",
+    "full_prompt": "A person kicking a soccer ball toward the camera, grass field, dynamic motion, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  },
+  {
+    "video_id": "w2_017_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 596611,
+      "bitrate_bps": 1590962
+    },
+    "prompt_id": "w2_017",
+    "category": "motion",
+    "original_prompt": "A jogger running along a beach at sunrise, waves in the background",
+    "full_prompt": "A jogger running along a beach at sunrise, waves in the background, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  },
+  {
+    "video_id": "w2_018_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 824497,
+      "bitrate_bps": 2198658
+    },
+    "prompt_id": "w2_018",
+    "category": "motion",
+    "original_prompt": "A skateboarder performing a trick on a ramp, urban skate park",
+    "full_prompt": "A skateboarder performing a trick on a ramp, urban skate park, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  },
+  {
+    "video_id": "w2_019_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 1300679,
+      "bitrate_bps": 3468477
+    },
+    "prompt_id": "w2_019",
+    "category": "motion",
+    "original_prompt": "Water splashing as a swimmer dives into a pool, high-speed capture",
+    "full_prompt": "Water splashing as a swimmer dives into a pool, high-speed capture, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  },
+  {
+    "video_id": "w2_021_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 294344,
+      "bitrate_bps": 784917
+    },
+    "prompt_id": "w2_021",
+    "category": "text_scene",
+    "original_prompt": "A shopkeeper standing in front of a bookstore, storefront signage visible",
+    "full_prompt": "A shopkeeper standing in front of a bookstore, storefront signage visible, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  },
+  {
+    "video_id": "w2_022_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 677438,
+      "bitrate_bps": 1806501
+    },
+    "prompt_id": "w2_022",
+    "category": "text_scene",
+    "original_prompt": "A newspaper vendor at a street corner with newspapers displayed",
+    "full_prompt": "A newspaper vendor at a street corner with newspapers displayed, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  },
+  {
+    "video_id": "w2_023_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 557493,
+      "bitrate_bps": 1486648
+    },
+    "prompt_id": "w2_023",
+    "category": "text_scene",
+    "original_prompt": "A person walking past a chalkboard menu outside a cafe",
+    "full_prompt": "A person walking past a chalkboard menu outside a cafe, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  },
+  {
+    "video_id": "w2_024_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 525001,
+      "bitrate_bps": 1400002
+    },
+    "prompt_id": "w2_024",
+    "category": "text_scene",
+    "original_prompt": "A traveller checking a departure board at a train station",
+    "full_prompt": "A traveller checking a departure board at a train station, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  },
+  {
+    "video_id": "w2_026_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 564122,
+      "bitrate_bps": 1504325
+    },
+    "prompt_id": "w2_026",
+    "category": "texture",
+    "original_prompt": "Close-up of a chef chopping vegetables on a wooden cutting board, natural kitchen lighting",
+    "full_prompt": "Close-up of a chef chopping vegetables on a wooden cutting board, natural kitchen lighting, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  },
+  {
+    "video_id": "w2_027_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 697668,
+      "bitrate_bps": 1860448
+    },
+    "prompt_id": "w2_027",
+    "category": "texture",
+    "original_prompt": "A weaver working on a traditional loom, colourful threads visible",
+    "full_prompt": "A weaver working on a traditional loom, colourful threads visible, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  },
+  {
+    "video_id": "w2_028_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 783554,
+      "bitrate_bps": 2089477
+    },
+    "prompt_id": "w2_028",
+    "category": "texture",
+    "original_prompt": "Rain falling on a window with a blurred city view outside, moody atmosphere",
+    "full_prompt": "Rain falling on a window with a blurred city view outside, moody atmosphere, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  },
+  {
+    "video_id": "w2_029_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 594814,
+      "bitrate_bps": 1586170
+    },
+    "prompt_id": "w2_029",
+    "category": "texture",
+    "original_prompt": "A potter shaping wet clay on a spinning wheel, close-up on hands and clay",
+    "full_prompt": "A potter shaping wet clay on a spinning wheel, close-up on hands and clay, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  },
+  {
+    "video_id": "w2_031_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 923860,
+      "bitrate_bps": 2463626
+    },
+    "prompt_id": "w2_031",
+    "category": "animal",
+    "original_prompt": "A golden retriever running in slow motion across a lawn, sunny day",
+    "full_prompt": "A golden retriever running in slow motion across a lawn, sunny day, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  },
+  {
+    "video_id": "w2_032_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 555782,
+      "bitrate_bps": 1482085
+    },
+    "prompt_id": "w2_032",
+    "category": "animal",
+    "original_prompt": "A cat stretching lazily on a sunlit windowsill, indoor scene",
+    "full_prompt": "A cat stretching lazily on a sunlit windowsill, indoor scene, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  },
+  {
+    "video_id": "w2_033_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 933587,
+      "bitrate_bps": 2489565
+    },
+    "prompt_id": "w2_033",
+    "category": "animal",
+    "original_prompt": "A horse galloping through an open field, wind blowing its mane",
+    "full_prompt": "A horse galloping through an open field, wind blowing its mane, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  },
+  {
+    "video_id": "w2_034_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 653281,
+      "bitrate_bps": 1742082
+    },
+    "prompt_id": "w2_034",
+    "category": "animal",
+    "original_prompt": "A parrot preening its feathers on a wooden perch, tropical background",
+    "full_prompt": "A parrot preening its feathers on a wooden perch, tropical background, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  },
+  {
+    "video_id": "w2_036_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 539849,
+      "bitrate_bps": 1439597
+    },
+    "prompt_id": "w2_036",
+    "category": "edge_case",
+    "original_prompt": "A magician performing a card trick, hands and cards in mid-motion, stage lighting",
+    "full_prompt": "A magician performing a card trick, hands and cards in mid-motion, stage lighting, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  },
+  {
+    "video_id": "w2_037_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 591201,
+      "bitrate_bps": 1576536
+    },
+    "prompt_id": "w2_037",
+    "category": "edge_case",
+    "original_prompt": "A dancer spinning in a red dress under a spotlight, dramatic shadows",
+    "full_prompt": "A dancer spinning in a red dress under a spotlight, dramatic shadows, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  },
+  {
+    "video_id": "w2_038_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 280432,
+      "bitrate_bps": 747818
+    },
+    "prompt_id": "w2_038",
+    "category": "edge_case",
+    "original_prompt": "A person applying makeup in front of a mirror, close-up showing both real face and reflection",
+    "full_prompt": "A person applying makeup in front of a mirror, close-up showing both real face and reflection, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  },
+  {
+    "video_id": "w2_039_gemini_omni_flash.mp4",
+    "generator": "Gemini Omni Flash",
+    "source_type": "commercial",
+    "access_method": "Higgsfield trial",
+    "license": "Generated via Higgsfield trial; Gemini Omni Flash by Google",
+    "normalisation": {
+      "target_width": 832,
+      "target_height": 480,
+      "target_fps": 24,
+      "target_duration_sec": 3,
+      "codec": "libx264",
+      "crf": 18,
+      "preset": "slow",
+      "audio": "stripped",
+      "aspect_handling": "letterbox with black padding"
+    },
+    "actual_specs": {
+      "width": 832,
+      "height": 480,
+      "fps": 24.0,
+      "duration_sec": 3.0,
+      "codec": "h264",
+      "filesize_bytes": 879738,
+      "bitrate_bps": 2345968
+    },
+    "prompt_id": "w2_039",
+    "category": "edge_case",
+    "original_prompt": "A crowded market at night with many people walking, string lights above",
+    "full_prompt": "A crowded market at night with many people walking, string lights above, natural lighting, cinematic quality, high detail, realistic",
+    "generation_date": "2026-07-21",
+    "native_specs": {
+      "resolution": "1280x720",
+      "duration_sec": 4,
+      "audio": true
+    },
+    "normalisation_note": "Audio stripped, trimmed from 4 sec to 3 sec for cross-generator consistency"
+  }
+]

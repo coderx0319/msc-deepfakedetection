@@ -1,0 +1,22 @@
+{
+  "video_id": "w2_038_wan_20260719_185825",
+  "prompt_id": "w2_038",
+  "category": "edge_case",
+  "original_prompt": "A person applying makeup in front of a mirror, close-up showing both real face and reflection",
+  "full_prompt": "A person applying makeup in front of a mirror, close-up showing both real face and reflection, natural lighting, cinematic quality, high detail, realistic",
+  "generator": "Wan 2.2 T2V-A14B",
+  "generation_time_seconds": 245.044678,
+  "generation_datetime": "20260719_185825",
+  "gpu": "A100",
+  "model_id": "Wan-AI/Wan2.2-T2V-A14B-Diffusers",
+  "height": 480,
+  "width": 832,
+  "num_frames": 49,
+  "num_inference_steps": 25,
+  "guidance_scale": 5.0,
+  "seed": 42,
+  "fps": 16,
+  "torch_dtype": "bfloat16",
+  "cinematic_suffix": ", natural lighting, cinematic quality, high detail, realistic",
+  "negative_prompt": "blurry, low quality, distorted, unnatural, deformed"
+}

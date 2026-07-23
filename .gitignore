@@ -42,3 +42,24 @@ Thumbs.db
 
 # Old detector work (kept for history but not part of new corpus)
 outputs/
+
+# Large video files (stay on Drive, go in corpus ZIP for submission)
+*.mp4
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# HuggingFace cache
+hf_cache/
+
+# API keys
+*api_key*
+*REDACTED*

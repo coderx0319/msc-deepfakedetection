@@ -1,0 +1,20 @@
+{
+  "video_id": "w2_012_hunyuan_20260719_140415",
+  "prompt_id": "w2_012",
+  "category": "multi_person",
+  "original_prompt": "A family of four eating dinner at a dining table, warm evening light",
+  "full_prompt": "A family of four eating dinner at a dining table, warm evening light, natural lighting, cinematic quality, high detail, realistic",
+  "generator": "HunyuanVideo",
+  "generation_time_seconds": 171.332966,
+  "generation_datetime": "20260719_140415",
+  "gpu": "A100",
+  "model_id": "hunyuanvideo-community/HunyuanVideo",
+  "height": 480,
+  "width": 704,
+  "num_frames": 73,
+  "num_inference_steps": 20,
+  "guidance_scale": 6.0,
+  "seed": 42,
+  "torch_dtype": "bfloat16",
+  "cinematic_suffix": ", natural lighting, cinematic quality, high detail, realistic"
+}

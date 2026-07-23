@@ -1,0 +1,38 @@
+{
+  "video_id": "w2_036_seedance.mp4",
+  "generator": "Seedance 2.0",
+  "source_type": "commercial",
+  "access_method": "Higgsfield trial",
+  "license": "Generated via Higgsfield trial; Seedance 2.0 by ByteDance",
+  "normalisation": {
+    "target_width": 832,
+    "target_height": 480,
+    "target_fps": 24,
+    "target_duration_sec": 3,
+    "codec": "libx264",
+    "crf": 18,
+    "preset": "slow",
+    "audio": "stripped",
+    "aspect_handling": "letterbox with black padding"
+  },
+  "actual_specs": {
+    "width": 832,
+    "height": 480,
+    "fps": 24.0,
+    "duration_sec": 3.0,
+    "codec": "h264",
+    "filesize_bytes": 375221,
+    "bitrate_bps": 1000589
+  },
+  "prompt_id": "w2_036",
+  "category": "edge_case",
+  "original_prompt": "A magician performing a card trick, hands and cards in mid-motion, stage lighting",
+  "full_prompt": "A magician performing a card trick, hands and cards in mid-motion, stage lighting, natural lighting, cinematic quality, high detail, realistic",
+  "generation_date": "2026-07-22",
+  "native_specs": {
+    "resolution": "1280x720",
+    "duration_sec": 4,
+    "audio": false
+  },
+  "normalisation_note": "Trimmed from 4 sec to 3 sec for cross-generator consistency"
+}

@@ -1,0 +1,37 @@
+{
+  "video_id": "w2_008_kling.mp4",
+  "generator": "Kling 3.0",
+  "source_type": "commercial",
+  "access_method": "Higgsfield trial",
+  "license": "Generated via Higgsfield trial; Kling 3.0 by Kuaishou",
+  "normalisation": {
+    "target_width": 832,
+    "target_height": 480,
+    "target_fps": 24,
+    "target_duration_sec": 3,
+    "codec": "libx264",
+    "crf": 18,
+    "preset": "slow",
+    "audio": "stripped",
+    "aspect_handling": "letterbox with black padding"
+  },
+  "actual_specs": {
+    "width": 832,
+    "height": 480,
+    "fps": 24.0,
+    "duration_sec": 3.0,
+    "codec": "h264",
+    "filesize_bytes": 484648,
+    "bitrate_bps": 1292394
+  },
+  "prompt_id": "w2_008",
+  "category": "hands",
+  "original_prompt": "Someone tying their shoelaces, close-up on hands and shoes, park bench",
+  "full_prompt": "Someone tying their shoelaces, close-up on hands and shoes, park bench, natural lighting, cinematic quality, high detail, realistic",
+  "generation_date": "2026-07-21",
+  "native_specs": {
+    "resolution": "1280x720",
+    "duration_sec": 3,
+    "audio": false
+  }
+}

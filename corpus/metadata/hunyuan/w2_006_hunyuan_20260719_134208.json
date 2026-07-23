@@ -1,0 +1,20 @@
+{
+  "video_id": "w2_006_hunyuan_20260719_134208",
+  "prompt_id": "w2_006",
+  "category": "hands",
+  "original_prompt": "Close-up of a person typing on a laptop keyboard, both hands visible, coffee shop background",
+  "full_prompt": "Close-up of a person typing on a laptop keyboard, both hands visible, coffee shop background, natural lighting, cinematic quality, high detail, realistic",
+  "generator": "HunyuanVideo",
+  "generation_time_seconds": 171.369376,
+  "generation_datetime": "20260719_134208",
+  "gpu": "A100",
+  "model_id": "hunyuanvideo-community/HunyuanVideo",
+  "height": 480,
+  "width": 704,
+  "num_frames": 73,
+  "num_inference_steps": 20,
+  "guidance_scale": 6.0,
+  "seed": 42,
+  "torch_dtype": "bfloat16",
+  "cinematic_suffix": ", natural lighting, cinematic quality, high detail, realistic"
+}

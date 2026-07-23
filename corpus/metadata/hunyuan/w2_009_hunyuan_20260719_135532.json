@@ -1,0 +1,20 @@
+{
+  "video_id": "w2_009_hunyuan_20260719_135532",
+  "prompt_id": "w2_009",
+  "category": "hands",
+  "original_prompt": "A person writing in a notebook with a fountain pen, close-up on the hand and paper",
+  "full_prompt": "A person writing in a notebook with a fountain pen, close-up on the hand and paper, natural lighting, cinematic quality, high detail, realistic",
+  "generator": "HunyuanVideo",
+  "generation_time_seconds": 171.438402,
+  "generation_datetime": "20260719_135532",
+  "gpu": "A100",
+  "model_id": "hunyuanvideo-community/HunyuanVideo",
+  "height": 480,
+  "width": 704,
+  "num_frames": 73,
+  "num_inference_steps": 20,
+  "guidance_scale": 6.0,
+  "seed": 42,
+  "torch_dtype": "bfloat16",
+  "cinematic_suffix": ", natural lighting, cinematic quality, high detail, realistic"
+}

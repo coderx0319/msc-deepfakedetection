@@ -1,0 +1,22 @@
+{
+  "video_id": "w2_022_wan_20260719_175144",
+  "prompt_id": "w2_022",
+  "category": "text_scene",
+  "original_prompt": "A newspaper vendor at a street corner with newspapers displayed",
+  "full_prompt": "A newspaper vendor at a street corner with newspapers displayed, natural lighting, cinematic quality, high detail, realistic",
+  "generator": "Wan 2.2 T2V-A14B",
+  "generation_time_seconds": 245.304911,
+  "generation_datetime": "20260719_175144",
+  "gpu": "A100",
+  "model_id": "Wan-AI/Wan2.2-T2V-A14B-Diffusers",
+  "height": 480,
+  "width": 832,
+  "num_frames": 49,
+  "num_inference_steps": 25,
+  "guidance_scale": 5.0,
+  "seed": 42,
+  "fps": 16,
+  "torch_dtype": "bfloat16",
+  "cinematic_suffix": ", natural lighting, cinematic quality, high detail, realistic",
+  "negative_prompt": "blurry, low quality, distorted, unnatural, deformed"
+}

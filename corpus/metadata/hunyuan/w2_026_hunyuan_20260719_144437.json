@@ -1,0 +1,20 @@
+{
+  "video_id": "w2_026_hunyuan_20260719_144437",
+  "prompt_id": "w2_026",
+  "category": "texture",
+  "original_prompt": "Close-up of a chef chopping vegetables on a wooden cutting board, natural kitchen lighting",
+  "full_prompt": "Close-up of a chef chopping vegetables on a wooden cutting board, natural kitchen lighting, natural lighting, cinematic quality, high detail, realistic",
+  "generator": "HunyuanVideo",
+  "generation_time_seconds": 171.045354,
+  "generation_datetime": "20260719_144437",
+  "gpu": "A100",
+  "model_id": "hunyuanvideo-community/HunyuanVideo",
+  "height": 480,
+  "width": 704,
+  "num_frames": 73,
+  "num_inference_steps": 20,
+  "guidance_scale": 6.0,
+  "seed": 42,
+  "torch_dtype": "bfloat16",
+  "cinematic_suffix": ", natural lighting, cinematic quality, high detail, realistic"
+}
