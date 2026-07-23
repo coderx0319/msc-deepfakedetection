@@ -1,0 +1,870 @@
+{
+  "rename_plan": [
+    {
+      "generator": "seedance",
+      "old_name": "A cat stretching lazily-seedance2.0.mp4",
+      "new_name": "w2_032_seedance.mp4",
+      "prompt_id": "w2_032",
+      "confidence": 1.0,
+      "extracted": "A cat stretching lazily",
+      "matched_prompt": "A cat stretching lazily on a sunlit windowsill, indoor scene..."
+    },
+    {
+      "generator": "seedance",
+      "old_name": "A crowded market at night-seedance2.0.mp4",
+      "new_name": "w2_039_seedance.mp4",
+      "prompt_id": "w2_039",
+      "confidence": 1.0,
+      "extracted": "A crowded market at night",
+      "matched_prompt": "A crowded market at night with many people walking, string l..."
+    },
+    {
+      "generator": "seedance",
+      "old_name": "A dancer spinning in a red dress-seedance2.0.mp4",
+      "new_name": "w2_037_seedance.mp4",
+      "prompt_id": "w2_037",
+      "confidence": 1.0,
+      "extracted": "A dancer spinning in a red dress",
+      "matched_prompt": "A dancer spinning in a red dress under a spotlight, dramatic..."
+    },
+    {
+      "generator": "seedance",
+      "old_name": "A family of four eating-seedance2.0.mp4",
+      "new_name": "w2_012_seedance.mp4",
+      "prompt_id": "w2_012",
+      "confidence": 1.0,
+      "extracted": "A family of four eating",
+      "matched_prompt": "A family of four eating dinner at a dining table, warm eveni..."
+    },
+    {
+      "generator": "seedance",
+      "old_name": "A golden retriever running-seedance2.0.mp4",
+      "new_name": "w2_031_seedance.mp4",
+      "prompt_id": "w2_031",
+      "confidence": 1.0,
+      "extracted": "A golden retriever running",
+      "matched_prompt": "A golden retriever running in slow motion across a lawn, sun..."
+    },
+    {
+      "generator": "seedance",
+      "old_name": "A hand pouring milk from a glass - seedance2.0.mp4",
+      "new_name": "w2_007_seedance.mp4",
+      "prompt_id": "w2_007",
+      "confidence": 1.0,
+      "extracted": "A hand pouring milk from a glass",
+      "matched_prompt": "A hand pouring milk from a glass bottle into a coffee cup, k..."
+    },
+    {
+      "generator": "seedance",
+      "old_name": "A horse galloping through an-seedance2.0.mp4",
+      "new_name": "w2_033_seedance.mp4",
+      "prompt_id": "w2_033",
+      "confidence": 1.0,
+      "extracted": "A horse galloping through an",
+      "matched_prompt": "A horse galloping through an open field, wind blowing its ma..."
+    },
+    {
+      "generator": "seedance",
+      "old_name": "A jogger running along - seedance2.0.mp4",
+      "new_name": "w2_017_seedance.mp4",
+      "prompt_id": "w2_017",
+      "confidence": 1.0,
+      "extracted": "A jogger running along",
+      "matched_prompt": "A jogger running along a beach at sunrise, waves in the back..."
+    },
+    {
+      "generator": "seedance",
+      "old_name": "A magician performing a card trick-seedance2.0.mp4",
+      "new_name": "w2_036_seedance.mp4",
+      "prompt_id": "w2_036",
+      "confidence": 1.0,
+      "extracted": "A magician performing a card trick",
+      "matched_prompt": "A magician performing a card trick, hands and cards in mid-m..."
+    },
+    {
+      "generator": "seedance",
+      "old_name": "A newspaper vendor at a street - seedance2.0.mp4",
+      "new_name": "w2_022_seedance.mp4",
+      "prompt_id": "w2_022",
+      "confidence": 1.0,
+      "extracted": "A newspaper vendor at a street",
+      "matched_prompt": "A newspaper vendor at a street corner with newspapers displa..."
+    },
+    {
+      "generator": "seedance",
+      "old_name": "A parent teaching a child - seedance2.0.mp4",
+      "new_name": "w2_014_seedance.mp4",
+      "prompt_id": "w2_014",
+      "confidence": 1.0,
+      "extracted": "A parent teaching a child",
+      "matched_prompt": "A parent teaching a child to ride a bicycle in a park, sunny..."
+    },
+    {
+      "generator": "seedance",
+      "old_name": "A parrot preening its feathers-seedance2.0.mp4",
+      "new_name": "w2_034_seedance.mp4",
+      "prompt_id": "w2_034",
+      "confidence": 1.0,
+      "extracted": "A parrot preening its feathers",
+      "matched_prompt": "A parrot preening its feathers on a wooden perch, tropical b..."
+    },
+    {
+      "generator": "seedance",
+      "old_name": "A person applying makeup-seedance2.0.mp4",
+      "new_name": "w2_038_seedance.mp4",
+      "prompt_id": "w2_038",
+      "confidence": 1.0,
+      "extracted": "A person applying makeup",
+      "matched_prompt": "A person applying makeup in front of a mirror, close-up show..."
+    },
+    {
+      "generator": "seedance",
+      "old_name": "A person kicking a soccer ball  - seedance2.0.mp4",
+      "new_name": "w2_016_seedance.mp4",
+      "prompt_id": "w2_016",
+      "confidence": 1.0,
+      "extracted": "A person kicking a soccer ball",
+      "matched_prompt": "A person kicking a soccer ball toward the camera, grass fiel..."
+    },
+    {
+      "generator": "seedance",
+      "old_name": "A person walking past a chalkboard - seedance2.0.mp4",
+      "new_name": "w2_023_seedance.mp4",
+      "prompt_id": "w2_023",
+      "confidence": 1.0,
+      "extracted": "A person walking past a chalkboard",
+      "matched_prompt": "A person walking past a chalkboard menu outside a cafe..."
+    },
+    {
+      "generator": "seedance",
+      "old_name": "A person writing in a notebook- seedance2.0.mp4",
+      "new_name": "w2_009_seedance.mp4",
+      "prompt_id": "w2_009",
+      "confidence": 1.0,
+      "extracted": "A person writing in a notebook",
+      "matched_prompt": "A person writing in a notebook with a fountain pen, close-up..."
+    },
+    {
+      "generator": "seedance",
+      "old_name": "A potter shaping wet clay-seedance2.0.mp4",
+      "new_name": "w2_029_seedance.mp4",
+      "prompt_id": "w2_029",
+      "confidence": 1.0,
+      "extracted": "A potter shaping wet clay",
+      "matched_prompt": "A potter shaping wet clay on a spinning wheel, close-up on h..."
+    },
+    {
+      "generator": "seedance",
+      "old_name": "A shopkeeper standing in front of a bookstore-seedance2.0.mp4",
+      "new_name": "w2_021_seedance.mp4",
+      "prompt_id": "w2_021",
+      "confidence": 1.0,
+      "extracted": "A shopkeeper standing in front of a bookstore",
+      "matched_prompt": "A shopkeeper standing in front of a bookstore, storefront si..."
+    },
+    {
+      "generator": "seedance",
+      "old_name": "A skateboarder performing a trick - seedance2.0.mp4",
+      "new_name": "w2_018_seedance.mp4",
+      "prompt_id": "w2_018",
+      "confidence": 1.0,
+      "extracted": "A skateboarder performing a trick",
+      "matched_prompt": "A skateboarder performing a trick on a ramp, urban skate par..."
+    },
+    {
+      "generator": "seedance",
+      "old_name": "A traveller checking a departure-seedance2.0.mp4",
+      "new_name": "w2_024_seedance.mp4",
+      "prompt_id": "w2_024",
+      "confidence": 1.0,
+      "extracted": "A traveller checking a departure",
+      "matched_prompt": "A traveller checking a departure board at a train station..."
+    },
+    {
+      "generator": "seedance",
+      "old_name": "A weaver working on a traditional-seedance2.0.mp4",
+      "new_name": "w2_027_seedance.mp4",
+      "prompt_id": "w2_027",
+      "confidence": 1.0,
+      "extracted": "A weaver working on a traditional",
+      "matched_prompt": "A weaver working on a traditional loom, colourful threads vi..."
+    },
+    {
+      "generator": "seedance",
+      "old_name": "A woman in her twenties with - seedance2.0.mp4",
+      "new_name": "w2_001_seedance.mp4",
+      "prompt_id": "w2_001",
+      "confidence": 1.0,
+      "extracted": "A woman in her twenties with",
+      "matched_prompt": "A woman in her twenties with red hair tucked behind her ear,..."
+    },
+    {
+      "generator": "seedance",
+      "old_name": "A woman with curly hair looking-seedance2.0.mp4",
+      "new_name": "w2_004_seedance.mp4",
+      "prompt_id": "w2_004",
+      "confidence": 1.0,
+      "extracted": "A woman with curly hair looking",
+      "matched_prompt": "A woman with curly hair looking thoughtfully out a rainy win..."
+    },
+    {
+      "generator": "seedance",
+      "old_name": "A young man with glasses  - seedance2.0.mp4",
+      "new_name": "w2_003_seedance.mp4",
+      "prompt_id": "w2_003",
+      "confidence": 1.0,
+      "extracted": "A young man with glasses",
+      "matched_prompt": "A young man with glasses reading a book, close-up on his fac..."
+    },
+    {
+      "generator": "seedance",
+      "old_name": "An older man laughing while - seedance2.0.mp4",
+      "new_name": "w2_002_seedance.mp4",
+      "prompt_id": "w2_002",
+      "confidence": 1.0,
+      "extracted": "An older man laughing while",
+      "matched_prompt": "An older man laughing while telling a story, cafe interior, ..."
+    },
+    {
+      "generator": "seedance",
+      "old_name": "Close-up of a chef chopping-seedance2.0.mp4",
+      "new_name": "w2_026_seedance.mp4",
+      "prompt_id": "w2_026",
+      "confidence": 1.0,
+      "extracted": "Close-up of a chef chopping",
+      "matched_prompt": "Close-up of a chef chopping vegetables on a wooden cutting b..."
+    },
+    {
+      "generator": "seedance",
+      "old_name": "Close-up of a person typing on a laptop - seedance2.0.mp4",
+      "new_name": "w2_006_seedance.mp4",
+      "prompt_id": "w2_006",
+      "confidence": 1.0,
+      "extracted": "Close-up of a person typing on a laptop",
+      "matched_prompt": "Close-up of a person typing on a laptop keyboard, both hands..."
+    },
+    {
+      "generator": "seedance",
+      "old_name": "Rain falling on a window-seedance2.0.mp4",
+      "new_name": "w2_028_seedance.mp4",
+      "prompt_id": "w2_028",
+      "confidence": 1.0,
+      "extracted": "Rain falling on a window",
+      "matched_prompt": "Rain falling on a window with a blurred city view outside, m..."
+    },
+    {
+      "generator": "seedance",
+      "old_name": "Someone tying their shoelaces, close-up - seedance2.0.mp4",
+      "new_name": "w2_008_seedance.mp4",
+      "prompt_id": "w2_008",
+      "confidence": 1.0,
+      "extracted": "Someone tying their shoelaces, close-up",
+      "matched_prompt": "Someone tying their shoelaces, close-up on hands and shoes, ..."
+    },
+    {
+      "generator": "seedance",
+      "old_name": "Three colleagues in a meeting room-seedance2.0.mp4",
+      "new_name": "w2_013_seedance.mp4",
+      "prompt_id": "w2_013",
+      "confidence": 1.0,
+      "extracted": "Three colleagues in a meeting room",
+      "matched_prompt": "Three colleagues in a meeting room having a discussion, whit..."
+    },
+    {
+      "generator": "seedance",
+      "old_name": "Two friends walking down -seedance2.0.mp4",
+      "new_name": "w2_011_seedance.mp4",
+      "prompt_id": "w2_011",
+      "confidence": 1.0,
+      "extracted": "Two friends walking down",
+      "matched_prompt": "Two friends walking down a busy street talking to each other..."
+    },
+    {
+      "generator": "seedance",
+      "old_name": "Water splashing as a swimmer  - seedance2.0.mp4",
+      "new_name": "w2_019_seedance.mp4",
+      "prompt_id": "w2_019",
+      "confidence": 1.0,
+      "extracted": "Water splashing as a swimmer",
+      "matched_prompt": "Water splashing as a swimmer dives into a pool, high-speed c..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260721_VIDEO_A_family.mp4",
+      "new_name": "w2_012_kling.mp4",
+      "prompt_id": "w2_012",
+      "confidence": 1.0,
+      "extracted": "A family",
+      "matched_prompt": "A family of four eating dinner at a dining table, warm eveni..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260721_VIDEO_A_hand_pou.mp4",
+      "new_name": "w2_007_kling.mp4",
+      "prompt_id": "w2_007",
+      "confidence": 1.0,
+      "extracted": "A hand pou",
+      "matched_prompt": "A hand pouring milk from a glass bottle into a coffee cup, k..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260721_VIDEO_A_jogger.mp4",
+      "new_name": "w2_017_kling.mp4",
+      "prompt_id": "w2_017",
+      "confidence": 1.0,
+      "extracted": "A jogger",
+      "matched_prompt": "A jogger running along a beach at sunrise, waves in the back..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260721_VIDEO_A_newspaper.mp4",
+      "new_name": "w2_022_kling.mp4",
+      "prompt_id": "w2_022",
+      "confidence": 1.0,
+      "extracted": "A newspaper",
+      "matched_prompt": "A newspaper vendor at a street corner with newspapers displa..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260721_VIDEO_A_parent.mp4",
+      "new_name": "w2_014_kling.mp4",
+      "prompt_id": "w2_014",
+      "confidence": 1.0,
+      "extracted": "A parent",
+      "matched_prompt": "A parent teaching a child to ride a bicycle in a park, sunny..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260721_VIDEO_A_person_kicking.mp4",
+      "new_name": "w2_016_kling.mp4",
+      "prompt_id": "w2_016",
+      "confidence": 1.0,
+      "extracted": "A person kicking",
+      "matched_prompt": "A person kicking a soccer ball toward the camera, grass fiel..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260721_VIDEO_A_person_writing.mp4",
+      "new_name": "w2_009_kling.mp4",
+      "prompt_id": "w2_009",
+      "confidence": 1.0,
+      "extracted": "A person writing",
+      "matched_prompt": "A person writing in a notebook with a fountain pen, close-up..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260721_VIDEO_A_shopkeeper.mp4",
+      "new_name": "w2_021_kling.mp4",
+      "prompt_id": "w2_021",
+      "confidence": 1.0,
+      "extracted": "A shopkeeper",
+      "matched_prompt": "A shopkeeper standing in front of a bookstore, storefront si..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260721_VIDEO_A_skateboard.mp4",
+      "new_name": "w2_018_kling.mp4",
+      "prompt_id": "w2_018",
+      "confidence": 1.0,
+      "extracted": "A skateboard",
+      "matched_prompt": "A skateboarder performing a trick on a ramp, urban skate par..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260721_VIDEO_A_woman_in.mp4",
+      "new_name": "w2_001_kling.mp4",
+      "prompt_id": "w2_001",
+      "confidence": 1.0,
+      "extracted": "A woman in",
+      "matched_prompt": "A woman in her twenties with red hair tucked behind her ear,..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260721_VIDEO_A_woman_with_curly.mp4",
+      "new_name": "w2_004_kling.mp4",
+      "prompt_id": "w2_004",
+      "confidence": 1.0,
+      "extracted": "A woman with curly",
+      "matched_prompt": "A woman with curly hair looking thoughtfully out a rainy win..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260721_VIDEO_A_young_man.mp4",
+      "new_name": "w2_003_kling.mp4",
+      "prompt_id": "w2_003",
+      "confidence": 1.0,
+      "extracted": "A young man",
+      "matched_prompt": "A young man with glasses reading a book, close-up on his fac..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260721_VIDEO_An_older_man.mp4",
+      "new_name": "w2_002_kling.mp4",
+      "prompt_id": "w2_002",
+      "confidence": 1.0,
+      "extracted": "An older man",
+      "matched_prompt": "An older man laughing while telling a story, cafe interior, ..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260721_VIDEO_Close_up_of_a_person_typing.mp4",
+      "new_name": "w2_006_kling.mp4",
+      "prompt_id": "w2_006",
+      "confidence": 0.9629629629629629,
+      "extracted": "Close up of a person typing",
+      "matched_prompt": "Close-up of a person typing on a laptop keyboard, both hands..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260721_VIDEO_Someone_tying_their.mp4",
+      "new_name": "w2_008_kling.mp4",
+      "prompt_id": "w2_008",
+      "confidence": 1.0,
+      "extracted": "Someone tying their",
+      "matched_prompt": "Someone tying their shoelaces, close-up on hands and shoes, ..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260721_VIDEO_Three_ colleagues.mp4",
+      "new_name": "w2_013_kling.mp4",
+      "prompt_id": "w2_013",
+      "confidence": 0.6666666666666666,
+      "extracted": "Three  colleagues",
+      "matched_prompt": "Three colleagues in a meeting room having a discussion, whit..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260721_VIDEO_Two_friend.mp4",
+      "new_name": "w2_011_kling.mp4",
+      "prompt_id": "w2_011",
+      "confidence": 1.0,
+      "extracted": "Two friend",
+      "matched_prompt": "Two friends walking down a busy street talking to each other..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260721_VIDEO_Water_splashing.mp4",
+      "new_name": "w2_019_kling.mp4",
+      "prompt_id": "w2_019",
+      "confidence": 1.0,
+      "extracted": "Water splashing",
+      "matched_prompt": "Water splashing as a swimmer dives into a pool, high-speed c..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260721_VIDEO_a_person_walking.mp4",
+      "new_name": "w2_023_kling.mp4",
+      "prompt_id": "w2_023",
+      "confidence": 1.0,
+      "extracted": "a person walking",
+      "matched_prompt": "A person walking past a chalkboard menu outside a cafe..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260721_VIDEO_a_traveller.mp4",
+      "new_name": "w2_024_kling.mp4",
+      "prompt_id": "w2_024",
+      "confidence": 1.0,
+      "extracted": "a traveller",
+      "matched_prompt": "A traveller checking a departure board at a train station..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260721_VIDEO_close_up_of_chef.mp4",
+      "new_name": "w2_026_kling.mp4",
+      "prompt_id": "w2_026",
+      "confidence": 0.8125,
+      "extracted": "close up of chef",
+      "matched_prompt": "Close-up of a chef chopping vegetables on a wooden cutting b..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260722_VIDEO_A_cat_stretching.mp4",
+      "new_name": "w2_032_kling.mp4",
+      "prompt_id": "w2_032",
+      "confidence": 1.0,
+      "extracted": "A cat stretching",
+      "matched_prompt": "A cat stretching lazily on a sunlit windowsill, indoor scene..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260722_VIDEO_A_crowded_market.mp4",
+      "new_name": "w2_039_kling.mp4",
+      "prompt_id": "w2_039",
+      "confidence": 1.0,
+      "extracted": "A crowded market",
+      "matched_prompt": "A crowded market at night with many people walking, string l..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260722_VIDEO_A_dancer.mp4",
+      "new_name": "w2_037_kling.mp4",
+      "prompt_id": "w2_037",
+      "confidence": 1.0,
+      "extracted": "A dancer",
+      "matched_prompt": "A dancer spinning in a red dress under a spotlight, dramatic..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260722_VIDEO_A_golden_retriever_running.mp4",
+      "new_name": "w2_031_kling.mp4",
+      "prompt_id": "w2_031",
+      "confidence": 1.0,
+      "extracted": "A golden retriever running",
+      "matched_prompt": "A golden retriever running in slow motion across a lawn, sun..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260722_VIDEO_A_horse_galloping.mp4",
+      "new_name": "w2_033_kling.mp4",
+      "prompt_id": "w2_033",
+      "confidence": 1.0,
+      "extracted": "A horse galloping",
+      "matched_prompt": "A horse galloping through an open field, wind blowing its ma..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260722_VIDEO_A_magician_ performing.mp4",
+      "new_name": "w2_036_kling.mp4",
+      "prompt_id": "w2_036",
+      "confidence": 1.0,
+      "extracted": "A magician  performing",
+      "matched_prompt": "A magician performing a card trick, hands and cards in mid-m..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260722_VIDEO_A_parrot_ preening.mp4",
+      "new_name": "w2_034_kling.mp4",
+      "prompt_id": "w2_034",
+      "confidence": 1.0,
+      "extracted": "A parrot  preening",
+      "matched_prompt": "A parrot preening its feathers on a wooden perch, tropical b..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260722_VIDEO_A_person_applying_makeup.mp4",
+      "new_name": "w2_038_kling.mp4",
+      "prompt_id": "w2_038",
+      "confidence": 1.0,
+      "extracted": "A person applying makeup",
+      "matched_prompt": "A person applying makeup in front of a mirror, close-up show..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260722_VIDEO_A_potter_shaping.mp4",
+      "new_name": "w2_029_kling.mp4",
+      "prompt_id": "w2_029",
+      "confidence": 1.0,
+      "extracted": "A potter shaping",
+      "matched_prompt": "A potter shaping wet clay on a spinning wheel, close-up on h..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260722_VIDEO_A_weaver_working.mp4",
+      "new_name": "w2_027_kling.mp4",
+      "prompt_id": "w2_027",
+      "confidence": 1.0,
+      "extracted": "A weaver working",
+      "matched_prompt": "A weaver working on a traditional loom, colourful threads vi..."
+    },
+    {
+      "generator": "kling",
+      "old_name": "kling_20260722_VIDEO_Rain_falling.mp4",
+      "new_name": "w2_028_kling.mp4",
+      "prompt_id": "w2_028",
+      "confidence": 1.0,
+      "extracted": "Rain falling",
+      "matched_prompt": "Rain falling on a window with a blurred city view outside, m..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "A cat stretching lazily -gemini_omni_flash.mp4",
+      "new_name": "w2_032_gemini_omni_flash.mp4",
+      "prompt_id": "w2_032",
+      "confidence": 1.0,
+      "extracted": "A cat stretching lazily",
+      "matched_prompt": "A cat stretching lazily on a sunlit windowsill, indoor scene..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "A crowded market at-gemini_omni_flash.mp4",
+      "new_name": "w2_039_gemini_omni_flash.mp4",
+      "prompt_id": "w2_039",
+      "confidence": 1.0,
+      "extracted": "A crowded market at",
+      "matched_prompt": "A crowded market at night with many people walking, string l..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "A dancer spinning in -gemini_omni-flash.mp4",
+      "new_name": "w2_037_gemini_omni_flash.mp4",
+      "prompt_id": "w2_037",
+      "confidence": 0.8,
+      "extracted": "A dancer spinning in -gemini_omni-flash",
+      "matched_prompt": "A dancer spinning in a red dress under a spotlight, dramatic..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "A family of four eating -gemini_omni-flash.mp4",
+      "new_name": "w2_012_gemini_omni_flash.mp4",
+      "prompt_id": "w2_012",
+      "confidence": 0.8333333333333334,
+      "extracted": "A family of four eating -gemini_omni-flash",
+      "matched_prompt": "A family of four eating dinner at a dining table, warm eveni..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "A golden retriever running-gemini_omni-flash.mp4",
+      "new_name": "w2_031_gemini_omni_flash.mp4",
+      "prompt_id": "w2_031",
+      "confidence": 0.75,
+      "extracted": "A golden retriever running-gemini_omni-flash",
+      "matched_prompt": "A golden retriever running in slow motion across a lawn, sun..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "A hand pouring milk - gemini-omni-flash.mp4",
+      "new_name": "w2_007_gemini_omni_flash.mp4",
+      "prompt_id": "w2_007",
+      "confidence": 0.6666666666666666,
+      "extracted": "A hand pouring milk - gemini-omni-flash",
+      "matched_prompt": "A hand pouring milk from a glass bottle into a coffee cup, k..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "A horse galloping -gemini_omni-flash.mp4",
+      "new_name": "w2_033_gemini_omni_flash.mp4",
+      "prompt_id": "w2_033",
+      "confidence": 0.75,
+      "extracted": "A horse galloping -gemini_omni-flash",
+      "matched_prompt": "A horse galloping through an open field, wind blowing its ma..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "A jogger running along a -gemini_omni-flash.mp4",
+      "new_name": "w2_017_gemini_omni_flash.mp4",
+      "prompt_id": "w2_017",
+      "confidence": 0.8333333333333334,
+      "extracted": "A jogger running along a -gemini_omni-flash",
+      "matched_prompt": "A jogger running along a beach at sunrise, waves in the back..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "A magician performing -gemini_omni-flash.mp4",
+      "new_name": "w2_036_gemini_omni_flash.mp4",
+      "prompt_id": "w2_036",
+      "confidence": 0.75,
+      "extracted": "A magician performing -gemini_omni-flash",
+      "matched_prompt": "A magician performing a card trick, hands and cards in mid-m..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "A newspaper vendor -gemini_omni-flash.mp4",
+      "new_name": "w2_022_gemini_omni_flash.mp4",
+      "prompt_id": "w2_022",
+      "confidence": 0.75,
+      "extracted": "A newspaper vendor -gemini_omni-flash",
+      "matched_prompt": "A newspaper vendor at a street corner with newspapers displa..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "A parent teaching a child -gemini_omni-flash.mp4",
+      "new_name": "w2_014_gemini_omni_flash.mp4",
+      "prompt_id": "w2_014",
+      "confidence": 0.8333333333333334,
+      "extracted": "A parent teaching a child -gemini_omni-flash",
+      "matched_prompt": "A parent teaching a child to ride a bicycle in a park, sunny..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "A parrot preening its feathers-gemini_omni_flash.mp4",
+      "new_name": "w2_034_gemini_omni_flash.mp4",
+      "prompt_id": "w2_034",
+      "confidence": 1.0,
+      "extracted": "A parrot preening its feathers",
+      "matched_prompt": "A parrot preening its feathers on a wooden perch, tropical b..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "A person applying makeup -gemini_omni-flash.mp4",
+      "new_name": "w2_038_gemini_omni_flash.mp4",
+      "prompt_id": "w2_038",
+      "confidence": 0.8,
+      "extracted": "A person applying makeup -gemini_omni-flash",
+      "matched_prompt": "A person applying makeup in front of a mirror, close-up show..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "A person kicking a soccer ball -gemini_omni-flash.mp4",
+      "new_name": "w2_016_gemini_omni_flash.mp4",
+      "prompt_id": "w2_016",
+      "confidence": 0.8571428571428571,
+      "extracted": "A person kicking a soccer ball -gemini_omni-flash",
+      "matched_prompt": "A person kicking a soccer ball toward the camera, grass fiel..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "A person walking -gemini_omni-flash.mp4",
+      "new_name": "w2_023_gemini_omni_flash.mp4",
+      "prompt_id": "w2_023",
+      "confidence": 0.75,
+      "extracted": "A person walking -gemini_omni-flash",
+      "matched_prompt": "A person walking past a chalkboard menu outside a cafe..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "A person writing in a notebook - gemini-omni-flash.mp4",
+      "new_name": "w2_009_gemini_omni_flash.mp4",
+      "prompt_id": "w2_009",
+      "confidence": 0.75,
+      "extracted": "A person writing in a notebook - gemini-omni-flash",
+      "matched_prompt": "A person writing in a notebook with a fountain pen, close-up..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "A potter shaping wet clay-gemini_omni-flash.mp4",
+      "new_name": "w2_029_gemini_omni_flash.mp4",
+      "prompt_id": "w2_029",
+      "confidence": 0.8,
+      "extracted": "A potter shaping wet clay-gemini_omni-flash",
+      "matched_prompt": "A potter shaping wet clay on a spinning wheel, close-up on h..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "A shopkeeper standing -gemini_omni-flash.mp4",
+      "new_name": "w2_021_gemini_omni_flash.mp4",
+      "prompt_id": "w2_021",
+      "confidence": 0.75,
+      "extracted": "A shopkeeper standing -gemini_omni-flash",
+      "matched_prompt": "A shopkeeper standing in front of a bookstore, storefront si..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "A skateboarder performing-gemini_omni-flash.mp4",
+      "new_name": "w2_018_gemini_omni_flash.mp4",
+      "prompt_id": "w2_018",
+      "confidence": 0.6666666666666666,
+      "extracted": "A skateboarder performing-gemini_omni-flash",
+      "matched_prompt": "A skateboarder performing a trick on a ramp, urban skate par..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "A traveller checking -gemini_omni-flash.mp4",
+      "new_name": "w2_024_gemini_omni_flash.mp4",
+      "prompt_id": "w2_024",
+      "confidence": 0.75,
+      "extracted": "A traveller checking -gemini_omni-flash",
+      "matched_prompt": "A traveller checking a departure board at a train station..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "A weaver working on -gemini_omni-flash.mp4",
+      "new_name": "w2_027_gemini_omni_flash.mp4",
+      "prompt_id": "w2_027",
+      "confidence": 0.8,
+      "extracted": "A weaver working on -gemini_omni-flash",
+      "matched_prompt": "A weaver working on a traditional loom, colourful threads vi..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "A woman in- gemini_omni_flash.mp4",
+      "new_name": "w2_001_gemini_omni_flash.mp4",
+      "prompt_id": "w2_001",
+      "confidence": 1.0,
+      "extracted": "A woman in",
+      "matched_prompt": "A woman in her twenties with red hair tucked behind her ear,..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "A woman with curly - gemini -omni-flash.mp4",
+      "new_name": "w2_004_gemini_omni_flash.mp4",
+      "prompt_id": "w2_004",
+      "confidence": 0.5714285714285714,
+      "extracted": "A woman with curly - gemini -omni-flash",
+      "matched_prompt": "A woman with curly hair looking thoughtfully out a rainy win..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "A young man with -gemini_omni_flash.mp4",
+      "new_name": "w2_003_gemini_omni_flash.mp4",
+      "prompt_id": "w2_003",
+      "confidence": 1.0,
+      "extracted": "A young man with",
+      "matched_prompt": "A young man with glasses reading a book, close-up on his fac..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "An older man laughing-gemini_omni_flash.mp4",
+      "new_name": "w2_002_gemini_omni_flash.mp4",
+      "prompt_id": "w2_002",
+      "confidence": 1.0,
+      "extracted": "An older man laughing",
+      "matched_prompt": "An older man laughing while telling a story, cafe interior, ..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "Close-up of a chef chopping-gemini_omni-flash.mp4",
+      "new_name": "w2_026_gemini_omni_flash.mp4",
+      "prompt_id": "w2_026",
+      "confidence": 0.8,
+      "extracted": "Close-up of a chef chopping-gemini_omni-flash",
+      "matched_prompt": "Close-up of a chef chopping vegetables on a wooden cutting b..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "Close-up of a person typing on a laptop-gemini-omni-flash.mp4",
+      "new_name": "w2_006_gemini_omni_flash.mp4",
+      "prompt_id": "w2_006",
+      "confidence": 0.875,
+      "extracted": "Close-up of a person typing on a laptop-gemini-omni-flash",
+      "matched_prompt": "Close-up of a person typing on a laptop keyboard, both hands..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "Rain falling on a window-gemini_omni-flash.mp4",
+      "new_name": "w2_028_gemini_omni_flash.mp4",
+      "prompt_id": "w2_028",
+      "confidence": 0.8,
+      "extracted": "Rain falling on a window-gemini_omni-flash",
+      "matched_prompt": "Rain falling on a window with a blurred city view outside, m..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "Someone tying their shoelaces-gemini-omni-flash.mp4",
+      "new_name": "w2_008_gemini_omni_flash.mp4",
+      "prompt_id": "w2_008",
+      "confidence": 0.75,
+      "extracted": "Someone tying their shoelaces-gemini-omni-flash",
+      "matched_prompt": "Someone tying their shoelaces, close-up on hands and shoes, ..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "Three colleagues in a meeting - gemini_omni-flash.mp4",
+      "new_name": "w2_013_gemini_omni_flash.mp4",
+      "prompt_id": "w2_013",
+      "confidence": 0.7142857142857143,
+      "extracted": "Three colleagues in a meeting - gemini_omni-flash",
+      "matched_prompt": "Three colleagues in a meeting room having a discussion, whit..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "Two friends walking down- gemini_omni_flash.mp4",
+      "new_name": "w2_011_gemini_omni_flash.mp4",
+      "prompt_id": "w2_011",
+      "confidence": 1.0,
+      "extracted": "Two friends walking down",
+      "matched_prompt": "Two friends walking down a busy street talking to each other..."
+    },
+    {
+      "generator": "gemini_omni_flash",
+      "old_name": "Water splashing as a swimmer-gemini_omni-flash.mp4",
+      "new_name": "w2_019_gemini_omni_flash.mp4",
+      "prompt_id": "w2_019",
+      "confidence": 0.8,
+      "extracted": "Water splashing as a swimmer-gemini_omni-flash",
+      "matched_prompt": "Water splashing as a swimmer dives into a pool, high-speed c..."
+    }
+  ],
+  "unmatched": [],
+  "duplicates": []
+}
