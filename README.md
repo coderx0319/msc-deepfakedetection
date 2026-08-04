@@ -1,336 +1,125 @@
-# Comparative Study of Artefacts in Modern AI-Generated Video Using MLLMs
+# A Comparative Study of Artefacts in Modern AI-Generated Video Using Multimodal Large Language Models
 
-**MSc Cyber Security Dissertation (COMP7300)**  
-**University of Kent**
+MSc Cyber Security dissertation project at the University of Kent.
 
-**Author:** Shantanu Uday Vedante  
-**Supervisor:** Prof. Shujun Li
+**Author:** Shantanu Uday Vedante ([@coderx0319](https://github.com/coderx0319))
+**Supervisor:** Prof. Shujun Li, University of Kent
+**Year:** 2026
 
----
+## What this project does
 
-## Abstract
+Text-to-video (T2V) generators have improved fast enough over the last two years that "does this video look real" is no longer a reliable question for a human to answer, and increasingly not a reliable one for a classifier either. This project takes a comparative approach: build a corpus of videos from six current T2V generators plus a real-video baseline, hand the whole thing to two frontier multimodal large language models (MLLMs), and see whether the MLLMs can identify AI-generated content, agree with each other, and produce useful per-generator artefact profiles.
 
-This repository contains the code, experimental pipeline, metadata, and analysis framework for my MSc Cyber Security dissertation investigating artefacts in AI-generated videos using multiple Multimodal Large Language Models (MLLMs).
+It answers three research questions:
 
-The study compares visual and temporal artefacts produced by:
+- **RQ1** — Which artefact families are most prevalent in each of the six generators sampled? (per-generator "artefact fingerprints")
+- **RQ2** — How consistently do a closed-source and an open-weight MLLM agree on their detections?
+- **RQ3** — How accurately does each MLLM identify AI-generated content at the video-verdict level, evaluated against real content as a false-positive baseline?
 
-- **Open-weight text-to-video models**
-  - LTX-2.3
-  - HunyuanVideo
-  - Wan 2.7
+## Key findings
 
-against
+Both MLLMs completed a full pass over the 280-video corpus using the same taxonomy-guided prompt.
 
-- **Commercial state-of-the-art generators**
-  - Kling 3.0
-  - Veo 3.1
-  - Runway Aleph 2.0
+**Neither is a reliable standalone video-verdict classifier, and they fail in opposite directions:**
 
-The generated videos are analysed using four independent MLLMs:
+| Metric | Gemini 3.1 Pro | Qwen 3.5-397B-A17B |
+|---|---|---|
+| Accuracy (verdict) | 81.0% | 51.4% |
+| Precision (AI class) | 84.1% | 97.6% |
+| Recall (AI class) | 93.1% | 38.0% |
+| False positive rate on real content | **60.3%** | 3.1% |
+| False negative rate on AI content | 6.9% | **62.0%** |
 
-- Claude Opus 4.7
-- Gemini 2.0 Flash
-- Qwen2.5-VL
-- LLaVA-1.6
+**They disagree at the verdict level but agree on unambiguous signals:**
 
-The objective is to evaluate artefact detection consistency, explanation quality, and the suitability of MLLMs for future AI-generated media forensic pipelines.
+- Verdict-level Cohen's kappa: 0.094 (slight agreement, per Landis & Koch)
+- Verdict-level Krippendorff's alpha: −0.189 (worse than chance under a pooled-raters model)
+- Family 1.4 (watermark) kappa: **0.930** — near-perfect agreement, both models correctly identify Kling's visible watermark on 66% of Kling videos
+- Motion (κ = 0.008) and identity drift (κ = 0.025) show almost no agreement despite being among the most detected families for Gemini
 
----
+**Detection difficulty is model-dependent, not generator-dependent:**
 
-# Table of Contents
+The LTX videos that Gemini identifies as AI at 93% are the same videos Qwen identifies at 28%. "Which generators are hardest to detect" has different answers for different analysers.
 
-- [Project Overview](#project-overview)
-- [Research Questions](#research-questions)
-- [Methodology](#methodology)
-- [Repository Structure](#repository-structure)
-- [Project Timeline](#project-timeline)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Experimental Pipeline](#experimental-pipeline)
-- [Results](#results)
-- [Reproducibility](#reproducibility)
-- [Ethical Considerations](#ethical-considerations)
-- [Citation](#citation)
-- [Acknowledgements](#acknowledgements)
+## Corpus
 
----
+- 280 videos across seven sources
+- Three open-weight generators, generated locally: LTX-2.3 (40), HunyuanVideo (40), Wan 2.2 (40)
+- Three commercial generators, accessed through Higgsfield's trial tier: Kling 3.0 (32), Gemini Omni Flash (32), Seedance 2.0 (32)
+- Real-video baseline: 64 videos from Pexels (HD, licensed for research use)
+- All videos normalised to 832×480 at 24 fps, CRF 18, audio stripped, via ffmpeg
+- 40 prompts total, prompt-matched across generators; commercial generators use a strict 32-prompt subset of the open-weight 40
 
-# Project Overview
+The videos themselves are not committed to this repository because of size. Per-video metadata JSONs are in [`corpus/metadata/`](corpus/metadata/) and include seed, checkpoint identifier, resolution, and all inference parameters, so the corpus is reproducible from source given the same prompt set and generation environment.
 
-Modern AI video generators have improved rapidly, yet generated videos still contain subtle spatial and temporal artefacts.
-
-This dissertation investigates whether Multimodal Large Language Models can reliably identify these artefacts and whether different MLLMs agree on their presence and severity.
-
-The work compares both open-source and commercial video generators under a unified evaluation framework.
-
----
-
-# Research Questions
-
-### RQ1
-
-What visual and temporal artefact profiles emerge when multiple MLLMs analyse videos produced by different modern generation models, and how do these profiles compare between open-weight and commercial models?
-
-### RQ2
-
-To what extent do different MLLMs agree in their identification and severity assessment of artefacts across generation sources?
-
-### RQ3
-
-How does the detection accuracy and explanation quality of multiple MLLMs vary across generation sources, and what implications does this have for MLLM-based forensic pipelines?
-
----
-
-# Methodology
-
-The project consists of five main stages.
+## Repository structure
 
 ```
-Text Prompt
-      │
-      ▼
-Video Generation
-(Open-weight Models)
-      │
-      ▼
-Commercial Sample Collection
-      │
-      ▼
-Video Pre-processing
-(Frame Extraction)
-      │
-      ▼
-MLLM Analysis
-(Claude, Gemini, Qwen, LLaVA)
-      │
-      ▼
-Artefact Extraction
-      │
-      ▼
-Statistical Analysis
-      │
-      ▼
-Dissertation Results
-```
-
----
-
-# Repository Structure
-
-```
-msc-deepfake-detection/
-│
-├── corpus/
-│   ├── videos/
-│   ├── metadata/
-│   ├── mllm_outputs/
-│   └── results/
-│
+.
 ├── code/
-│   ├── generation/
-│   ├── preprocessing/
-│   ├── analysis/
-│   └── utils/
-│
-├── dissertation/
-│
-├── logbook/
-│
-├── supervisor_communication/
-│
-├── requirements.txt
-├── README.md
-└── LICENSE
+│   ├── analysis/        21 Jupyter notebooks — the full pipeline
+│   └── prompts/         system prompts used with the MLLMs
+├── corpus/
+│   ├── metadata/        per-video metadata JSONs
+│   ├── mllm_outputs/    final Gemini and Qwen result files
+│   └── results/
+│       ├── tables/      12 CSVs generated by the analysis notebooks
+│       └── figures/     6 PNG heatmaps used in the Results chapter
+├── Manual_Inspection_Videos_Sheet.xlsx    L/M/H prevalence prior from 30-video manual pass
+├── LICENSE
+└── README.md
 ```
 
----
+## How to reproduce
 
-# Project Timeline
+The pipeline is split into three stages. Only the third can be run entirely from what is committed to this repository.
 
-| Phase | Duration |
-|---------|----------|
-| Environment Setup | 15–21 July |
-| Video Generation | 22–28 July |
-| MLLM Analysis | 29 July – 4 August |
-| Statistical Analysis | 5–11 August |
-| Writing & Corpus Preparation | 12–20 August |
-| Corpus Submission | 21 August |
-| Dissertation Writing | 22 August – 4 September |
+### Stage 1 — Corpus generation (notebooks 01–13)
 
----
+Requires GPU access (Google Colab with A100/L4 for HunyuanVideo, Wan 2.2, and LTX) and paid Higgsfield trial access for the commercial generators. Not practical to re-run in most environments and included in the repo for documentation and transparency rather than for one-click re-execution. Full inference parameters are recorded in each video's metadata JSON.
 
-# Installation
+### Stage 2 — MLLM analysis (notebooks 15 and 16)
 
-Clone the repository.
+Runs the analysis prompt against every video in the corpus and streams results to a JSONL log. Requires:
 
-```bash
-git clone https://github.com/coderx0319/msc-deepfakedetection.git
+- Gemini API key from [Google AI Studio](https://aistudio.google.com/) with paid tier enabled
+- OpenRouter API key from [openrouter.ai](https://openrouter.ai/) with ~$5 credit
+- Google Drive with the video corpus mounted at `/content/drive/MyDrive/msc-deepfake/generated_videos_final/`
 
-cd msc-deepfake-detection
-```
+Full pass costs approximately £8 on Gemini and $0.73 on Qwen (Alibaba Cloud provider via OpenRouter) as of August 2026.
 
-Create a virtual environment.
+### Stage 3 — Cross-MLLM analysis (notebooks 17 and 18)
 
-```bash
-python -m venv venv
-```
+Reads the two JSONL result files and produces the confusion matrices, agreement statistics, per-family fingerprints, and paired-subset analysis in [`corpus/results/`](corpus/results/). Requires only Python, numpy, and matplotlib. Runs in about a minute.
 
-Activate it.
+## Limitations
 
-### Windows
+Three caveats belong at the front:
 
-```bash
-venv\Scripts\activate
-```
+1. **Snapshot in time.** The six generators are snapshots at the moment of sampling. Commercial models in particular update frequently, and the specific model versions analysed here may not represent later versions.
+2. **Two MLLMs.** Both are from mid-2026. Results may not extend to earlier or later MLLMs, or to models from vendors not sampled here. A third MLLM would strengthen the RQ2 agreement analysis.
+3. **Prompt-driven.** The 40 prompts were designed by me and reflect a specific view of what T2V models should be tested on. Different prompt sets would expose different artefact profiles.
 
-### Linux/macOS
+Further biases, including the potential for MLLM-to-generator vendor overlap (Gemini 3.1 Pro analysing Gemini Omni Flash outputs), are discussed in the dissertation methodology chapter.
 
-```bash
-source venv/bin/activate
-```
+## Ethics and licensing
 
-Install dependencies.
+- Pexels videos are licensed for research use without required attribution, though creator names and source URLs are preserved in per-video metadata for transparency.
+- Higgsfield trial-tier terms permit research use of generated outputs.
+- No human subjects, personal data, or identifiable individuals were involved in corpus construction.
+- Code in this repository is released under the MIT License (see [LICENSE](LICENSE)).
+- Data files (metadata JSONs, MLLM outputs, analysis tables) are released under CC-BY-4.0 — please cite this repository if you use them.
 
-```bash
-pip install -r requirements.txt
-```
+## Citation
 
----
-
-# Usage
-
-## Generate Videos
-
-```bash
-python code/generation/generate_ltx.py
-
-python code/generation/generate_hunyuan.py
-
-python code/generation/generate_wan.py
-```
-
----
-
-## Extract Frames
-
-```bash
-python code/preprocessing/extract_frames.py
-```
-
----
-
-## Run MLLM Analysis
-
-```bash
-python code/analysis/run_claude.py
-
-python code/analysis/run_gemini.py
-
-python code/analysis/run_qwen.py
-
-python code/analysis/run_llava.py
-```
-
----
-
-## Generate Figures
-
-```bash
-python code/analysis/statistics.py
-```
-
----
-
-# Experimental Pipeline
-
-The complete workflow is:
-
-1. Prompt selection
-2. AI video generation
-3. Commercial sample collection
-4. Metadata recording
-5. Frame extraction
-6. MLLM inference
-7. Artefact categorisation
-8. Statistical comparison
-9. Agreement analysis
-10. Dissertation reporting
-
----
-
-# Results
-
-Experimental outputs will be stored in:
+If you use anything from this repository, please cite:
 
 ```
-corpus/results/
+Shantanu Uday Vedante (2026). A Comparative Study of Artefacts in Modern AI-Generated Video
+Using Multimodal Large Language Models. MSc dissertation, University of Kent.
+https://github.com/coderx0319/msc-deepfakedetection
 ```
 
-including
+## Contact
 
-- Statistical summaries
-- Confusion matrices
-- Agreement metrics
-- Severity distributions
-- Visualisations
-- Tables used in the dissertation
-
----
-
-# Reproducibility
-
-Each experiment includes:
-
-- Prompt used
-- Generator version
-- Model parameters
-- Generation settings
-- Random seed (where available)
-- Metadata
-- MLLM output
-- Processing scripts
-
-Complete reproduction instructions are documented within each subdirectory.
-
----
-
-# Ethical Considerations
-
-This research complies with University of Kent research ethics requirements.
-
-- Open-weight models are used under their respective licences.
-- Commercial samples are collected exclusively from publicly available user-posted demonstrations.
-- No deceptive or malicious use of generated media is involved.
-- The repository is intended solely for academic research into AI-generated media forensics.
-
----
-
-# Citation
-
-If you use this repository in your research, please cite:
-
-```bibtex
-@mastersthesis{vedante2026mllmvideo,
-  author = {Shantanu Uday Vedante},
-  title = {Comparative Study of Artefacts in Modern AI-Generated Video Using MLLMs},
-  school = {University of Kent},
-  year = {2026},
-  type = {MSc Dissertation}
-}
-```
-
----
-
-# Acknowledgements
-
-This work was completed as part of the MSc Cyber Security programme at the University of Kent under the supervision of **Prof. Shujun Li**.
-
-The project makes use of publicly available AI video generation models and Multimodal Large Language Models for academic research purposes.
-
----
-
-## License
-
-This repository is released for academic and research purposes.
-
-Please refer to the `LICENSE` file for details.
+Issues and questions welcome via the [GitHub issues page](https://github.com/coderx0319/msc-deepfakedetection/issues). For anything else, [@coderx0319](https://github.com/coderx0319) on GitHub.
