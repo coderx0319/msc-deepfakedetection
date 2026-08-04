@@ -1,0 +1,16 @@
+gemini_verdict,qwen_verdict,count
+AI-generated,AI-generated,82
+AI-generated,Real,157
+AI-generated,Uncertain,0
+Real,AI-generated,2
+Real,Real,32
+Real,Uncertain,2
+Uncertain,AI-generated,0
+Uncertain,Real,4
+Uncertain,Uncertain,0
+
+n,279
+cohen_kappa,0.0940
+krippendorff_alpha_nominal,-0.1893
+observed_agreement,0.4086
+expected_agreement,0.3473

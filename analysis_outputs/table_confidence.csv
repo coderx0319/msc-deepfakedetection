@@ -1,0 +1,3 @@
+mllm,n,mean,sd,median,min,max
+gemini,279,65.99,13.37,70.0,25,75
+qwen,280,90.44,9.61,92.0,15,100

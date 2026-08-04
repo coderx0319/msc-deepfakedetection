@@ -1,0 +1,7 @@
+generator,n_paired,gemini_detected,gemini_rate,qwen_detected,qwen_rate
+LTX,32,29,0.9062,9,0.2812
+Hunyuan,32,29,0.9062,8,0.2500
+Wan,32,28,0.8750,6,0.1875
+Kling,32,31,0.9688,24,0.7500
+Gemini_Omni,32,32,1.0000,15,0.4688
+Seedance,32,30,0.9375,13,0.4062
