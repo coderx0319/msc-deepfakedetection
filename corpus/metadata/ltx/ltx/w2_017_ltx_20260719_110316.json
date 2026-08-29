@@ -1,0 +1,53 @@
+{
+  "video_id": "w2_017_ltx_20260719_110316",
+  "filename": "w2_017_ltx_20260719_110316.mp4",
+  "prompt_id": "w2_017",
+  "category": "motion",
+  "prompts": {
+    "original": {
+      "text": "A jogger running along a beach at sunrise, waves in the background",
+      "category": "motion"
+    },
+    "full_with_suffix": "{'text': 'A jogger running along a beach at sunrise, waves in the background', 'category': 'motion'}, natural lighting, cinematic quality, high detail, realistic"
+  },
+  "generator_info": {
+    "generator": "LTX-2.3",
+    "family": "diffusion transformer",
+    "vendor": "Lightricks",
+    "access_method": "self-hosted (Google Colab Pro, L4 GPU)",
+    "license": "open-weight"
+  },
+  "generation_params": {
+    "native_width": 704,
+    "native_height": 480,
+    "native_frames": 73,
+    "native_fps": 24,
+    "native_duration_s": 3.042,
+    "inference_steps": 30,
+    "guidance_scale": 3.0,
+    "seed": 42,
+    "precision": "bfloat16"
+  },
+  "normalisation_params": {
+    "target_width": 832,
+    "target_height": 480,
+    "target_fps": 24,
+    "codec": "libx264",
+    "crf": 18,
+    "preset": "slow",
+    "audio": "stripped",
+    "aspect_handling": "letterboxed where source and target differ"
+  },
+  "actual_file_specs": {
+    "actual_width": 704,
+    "actual_height": 480,
+    "actual_fps": 24.0,
+    "actual_frames": 73,
+    "actual_duration_s": 3.041667,
+    "actual_codec": "h264",
+    "file_size_bytes": 391432,
+    "bit_rate": 1029406
+  },
+  "source_type": "AI-generated",
+  "metadata_generated": "2026-08-20T10:46:22"
+}
